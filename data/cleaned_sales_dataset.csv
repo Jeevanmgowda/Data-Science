@@ -1,0 +1,851 @@
+Order_ID,Order_Date,Customer_Name,City,Product,Category,Quantity,Unit_Price,Sales,Payment_Method,Customer_Age,Rating
+ORD1174,2023-06-23,Meera Iyer,Kolkata,Tea Pack,Groceries,1,136.45,136.45,UPI,45,2.3
+ORD1224,2023-07-15,Arjun Iyer,Delhi,Laptop,Electronics,1,35845.91,35845.91,Net Banking,18,2.5
+ORD1085,2023-09-13,Ishaan Verma,Kolkata,Building Blocks,Toys,1,2144.37,2144.37,Cash,36,4.9
+ORD1680,2023-03-01,Priya Sharma,Delhi,Shampoo,Beauty,1,627.51,627.51,UPI,38,4.5
+ORD1536,2023-03-24,Aarav Singh,Bangalore,Rice 5kg,Groceries,1,393.65,393.65,UPI,34,4.4
+ORD1623,2023-03-02,Sanjay Singh,Ahmedabad,Face Cream,Beauty,1,756.27,756.27,Cash,27,1.5
+ORD1149,2023-07-07,Isha Gupta,Chennai,Action Figure,Toys,5,1130.92,5654.6,Debit Card,26,3.6
+ORD1004,2023-08-30,Ishaan Mehta,Kolkata,Puzzle Set,Toys,5,864.22,4321.1,Debit Card,29,2.8
+ORD1035,2023-04-25,Ishaan Nair,Chennai,Sandals,Footwear,1,1117.94,1117.94,UPI,43,2.1
+ORD1242,2023-06-27,Isha Kumar,Kolkata,Notebook Set,Books,1,291.13,291.13,Cash,46,4.1
+ORD1797,2023-11-05,Neha Bose,Jaipur,Building Blocks,Toys,2,2021.27,4042.54,Net Banking,27,1.3
+ORD1003,2023-06-19,Kavya Bose,Bangalore,Rice 5kg,Groceries,2,322.81,645.62,Cash,36,1.7
+ORD1007,2023-08-05,Priya Patel,Delhi,Sandals,Footwear,1,947.63,947.63,Cash,45,2.9
+ORD1018,2023-10-31,Diya Singh,Kolkata,Smartwatch,Electronics,1,7061.33,7061.33,Credit Card,21,3.8
+ORD1369,2023-01-25,Isha Gupta,Ahmedabad,Textbook,Books,2,708.65,1417.3,Debit Card,35,2.9
+ORD1431,2023-02-04,Sanjay Joshi,Delhi,Lipstick,Beauty,2,1025.21,2050.42,Cash,29,2.9
+ORD1819,2023-04-16,Aditya Bose,Kolkata,Formal Shoes,Footwear,1,3370.92,3370.92,Debit Card,35,2.6
+ORD1743,2023-01-29,Riya Mehta,Kolkata,Sugar 1kg,Groceries,2,40.78,81.56,Cash,21,4.7
+ORD1190,2023-05-22,Anjali Singh,Lucknow,Sandals,Footwear,2,1293.44,2586.88,Net Banking,36,1.8
+ORD1438,2023-03-20,Sai Rao,Mumbai,Jeans,Clothing,1,1251.34,1251.34,UPI,26,4.5
+ORD1383,2023-03-01,Vivaan Sharma,Bangalore,Face Cream,Beauty,1,343.94,343.94,UPI,30,4.2
+ORD1074,2023-08-06,Priya Iyer,Mumbai,Remote Car,Toys,2,1291.03,2582.06,Cash,38,1.4
+ORD1847,2023-05-26,Rahul Reddy,Lucknow,Perfume,Beauty,1,2336.48,2336.48,Net Banking,29,4.7
+ORD1386,2023-05-29,Krishna Gupta,Pune,Formal Shoes,Footwear,4,1592.0,6368.0,Cash,55,3.7
+ORD1112,2023-07-12,Amit Mehta,Ahmedabad,Face Cream,Beauty,2,728.24,1456.48,UPI,28,5.0
+ORD1738,2023-01-26,Sanjay Chatterjee,Chennai,Action Figure,Toys,2,1030.83,2061.66,Cash,44,1.2
+ORD1742,2023-06-20,Reyansh Kumar,Ahmedabad,Dining Table,Furniture,5,22598.59,112992.95,Cash,35,4.6
+ORD1619,2023-06-02,Aadhya Mehta,Ahmedabad,Bluetooth Speaker,Electronics,2,3027.78,6055.56,Net Banking,42,4.9
+ORD1789,2023-08-06,Amit Sharma,Lucknow,Sneakers,Footwear,2,4031.04,8062.08,Cash,32,2.3
+ORD1632,2023-08-03,Reyansh Iyer,Pune,Running Shoes,Footwear,1,1368.15,1368.15,UPI,30,3.3
+ORD1299,2023-11-07,Isha Nair,Kolkata,Puzzle Set,Toys,2,779.99,1559.98,Cash,19,1.9
+ORD1611,2023-03-22,Rahul Das,Bangalore,Dress,Clothing,1,1048.58,1048.58,Credit Card,33,3.7
+ORD1630,2023-02-06,Vihaan Chatterjee,Jaipur,Office Chair,Furniture,1,6458.04,6458.04,UPI,47,2.8
+ORD1526,2023-06-23,Anjali Rao,Ahmedabad,Dining Table,Furniture,1,9893.1,9893.1,Cash,39,1.8
+ORD1234,2023-06-28,Rahul Joshi,Mumbai,Bookshelf,Furniture,1,7471.78,7471.78,Cash,45,2.9
+ORD1513,2023-03-07,Neha Das,Lucknow,Smartphone,Electronics,2,44738.91,89477.82,UPI,29,3.9
+ORD1155,2023-02-07,Neha Verma,Chennai,Building Blocks,Toys,2,668.2,1336.4,Debit Card,18,2.0
+ORD1371,2023-09-03,Vivaan Mehta,Ahmedabad,Shampoo,Beauty,1,461.24,461.24,Cash,39,1.9
+ORD1640,2023-06-15,Ananya Singh,Chennai,Cooking Oil 1L,Groceries,1,210.41,210.41,Debit Card,30,1.5
+ORD1217,2023-06-17,Diya Gupta,Ahmedabad,Bed Frame,Furniture,1,28306.24,28306.24,Net Banking,18,4.3
+ORD1009,2023-05-11,Aarav Singh,Lucknow,Bookshelf,Furniture,1,4569.4,4569.4,UPI,30,1.4
+ORD1668,2023-04-28,Vivaan Bose,Bangalore,Lipstick,Beauty,1,855.63,855.63,Cash,45,3.9
+ORD1332,2023-03-27,Vihaan Bose,Mumbai,Running Shoes,Footwear,1,1156.52,1156.52,Debit Card,28,3.8
+ORD1827,2023-08-27,Rohan Bose,Delhi,Remote Car,Toys,1,1944.41,1944.41,Cash,18,1.0
+ORD1364,2023-06-20,Priya Nair,Kolkata,Running Shoes,Footwear,2,2656.68,5313.36,Net Banking,28,2.9
+ORD1060,2023-01-13,Neha Patel,Chennai,Textbook,Books,1,942.4,942.4,Credit Card,20,1.3
+ORD1795,2023-11-20,Rahul Kumar,Mumbai,Running Shoes,Footwear,1,1523.92,1523.92,Net Banking,38,2.3
+ORD1706,2023-12-21,Arjun Nair,Delhi,Notebook Set,Books,2,343.18,686.36,Net Banking,32,4.7
+ORD1841,2023-01-26,Amit Gupta,Jaipur,Comic Book,Books,1,107.52,107.52,Net Banking,35,4.4
+ORD1182,2023-06-07,Sneha Gupta,Bangalore,Tea Pack,Groceries,1,115.84,115.84,Cash,35,4.0
+ORD1057,2023-04-17,Kavya Chatterjee,Delhi,Action Figure,Toys,1,1125.34,1125.34,UPI,29,2.5
+ORD1239,2023-07-07,Priya Chatterjee,Mumbai,Wheat Flour 5kg,Groceries,1,239.3,239.3,UPI,27,4.4
+ORD1266,2023-07-25,Meera Verma,Chennai,Bookshelf,Furniture,1,7681.04,7681.04,Net Banking,18,3.6
+ORD1082,2023-12-15,Krishna Sharma,Jaipur,Remote Car,Toys,2,1185.2,2370.4,UPI,20,2.9
+ORD1143,2023-02-21,Isha Rao,Bangalore,Running Shoes,Footwear,1,2341.65,2341.65,Debit Card,23,4.4
+ORD1243,2023-12-04,Pooja Verma,Jaipur,Kurta,Clothing,1,1245.04,1245.04,Credit Card,35,3.4
+ORD1625,2023-06-14,Meera Mehta,Hyderabad,Headphones,Electronics,1,3525.41,3525.41,Cash,35,4.2
+ORD1014,2023-03-22,Meera Verma,Mumbai,Puzzle Set,Toys,1,698.59,698.59,Net Banking,34,3.5
+ORD1405,2023-09-03,Rahul Das,Pune,Sneakers,Footwear,1,4316.97,4316.97,UPI,56,2.5
+ORD1181,2023-09-17,Anjali Chatterjee,Chennai,Notebook Set,Books,1,153.51,153.51,Cash,29,1.9
+ORD1690,2023-10-14,Kavya Joshi,Kolkata,Notebook Set,Books,1,107.26,107.26,UPI,48,1.5
+ORD1653,2023-03-07,Amit Kumar,Delhi,Smartwatch,Electronics,1,9598.05,9598.05,Debit Card,29,4.4
+ORD1188,2023-07-01,Rohan Patel,Hyderabad,Sofa,Furniture,5,33188.05,165940.25,Cash,32,4.4
+ORD1693,2023-08-20,Aadhya Singh,Chennai,Running Shoes,Footwear,2,1252.23,2504.46,UPI,53,1.2
+ORD1256,2023-05-13,Pooja Kumar,Mumbai,Kurta,Clothing,4,1936.68,7746.72,Credit Card,33,3.9
+ORD1829,2023-03-17,Anjali Verma,Chennai,Shampoo,Beauty,1,666.5,666.5,UPI,39,1.4
+ORD1208,2023-03-30,Isha Rao,Kolkata,Novel,Books,1,155.58,155.58,UPI,55,3.9
+ORD1206,2023-09-27,Sai Nair,Hyderabad,Sofa,Furniture,1,8576.0,8576.0,Credit Card,23,4.6
+ORD1315,2023-10-06,Sneha Joshi,Delhi,Jeans,Clothing,1,1185.2,1185.2,UPI,19,2.1
+ORD1566,2023-05-31,Rahul Joshi,Delhi,Perfume,Beauty,2,982.58,1965.16,Credit Card,46,2.4
+ORD1686,2023-12-27,Sai Reddy,Kolkata,Rice 5kg,Groceries,1,378.14,378.14,UPI,58,3.2
+ORD1741,2023-06-21,Isha Mehta,Pune,Smartphone,Electronics,5,41462.1,207310.5,Debit Card,36,1.2
+ORD1831,2023-04-05,Arjun Patel,Jaipur,Tablet,Electronics,1,23842.18,23842.18,Cash,34,1.9
+ORD1786,2023-04-15,Anjali Mehta,Delhi,Remote Car,Toys,1,1248.14,1248.14,Credit Card,34,3.7
+ORD1817,2023-08-23,Amit Singh,Delhi,Novel,Books,1,512.71,512.71,Credit Card,25,3.2
+ORD1384,2023-04-20,Isha Singh,Mumbai,Sneakers,Footwear,1,1413.83,1413.83,Debit Card,35,1.6
+ORD1790,2023-03-17,Vihaan Kumar,Ahmedabad,Sofa,Furniture,2,12375.53,24751.06,Credit Card,24,4.8
+ORD1488,2023-12-17,Sneha Iyer,Chennai,Bookshelf,Furniture,5,2822.67,14113.35,Cash,43,2.9
+ORD1505,2023-12-08,Sneha Joshi,Mumbai,Bookshelf,Furniture,10,2705.16,27051.6,Credit Card,37,3.9
+ORD1510,2023-12-08,Rohan Gupta,Bangalore,Sandals,Footwear,4,671.6,2686.4,Net Banking,25,1.5
+ORD1160,2023-05-08,Priya Bose,Chennai,Building Blocks,Toys,2,567.93,1135.86,Cash,23,1.0
+ORD1465,2023-07-19,Reyansh Das,Hyderabad,Laptop,Electronics,1,29062.95,29062.95,Credit Card,35,2.9
+ORD1203,2023-06-05,Aadhya Nair,Hyderabad,Shampoo,Beauty,2,308.56,617.12,Credit Card,32,4.5
+ORD1474,2023-01-14,Kavya Reddy,Mumbai,Tea Pack,Groceries,1,125.49,125.49,Net Banking,18,1.3
+ORD1773,2023-09-10,Diya Mehta,Bangalore,Kurta,Clothing,1,606.37,606.37,Debit Card,27,3.8
+ORD1590,2023-08-09,Ishaan Sharma,Delhi,Smartphone,Electronics,2,27397.42,54794.84,Cash,18,3.5
+ORD1599,2023-01-19,Pooja Iyer,Ahmedabad,Sandals,Footwear,1,1348.03,1348.03,Net Banking,26,1.8
+ORD1813,2023-01-12,Riya Patel,Delhi,Building Blocks,Toys,3,1215.92,3647.76,Debit Card,41,2.0
+ORD1626,2023-01-26,Riya Sharma,Ahmedabad,Cooking Oil 1L,Groceries,1,200.32,200.32,Net Banking,28,2.2
+ORD1662,2023-04-13,Sanjay Kumar,Mumbai,Building Blocks,Toys,1,2236.28,2236.28,Net Banking,35,3.5
+ORD1585,2023-08-28,Rohan Gupta,Hyderabad,Sofa,Furniture,2,29231.69,58463.38,UPI,45,1.2
+ORD1703,2023-05-07,Rahul Gupta,Jaipur,Face Cream,Beauty,1,630.36,630.36,Cash,28,1.8
+ORD1048,2023-03-04,Anjali Reddy,Delhi,Perfume,Beauty,1,951.25,951.25,Debit Card,31,2.1
+ORD1493,2023-12-08,Sneha Patel,Mumbai,Tea Pack,Groceries,2,242.64,485.28,Credit Card,31,1.6
+ORD1453,2023-08-27,Rahul Mehta,Hyderabad,Textbook,Books,2,1187.36,2374.72,UPI,29,2.1
+ORD1095,2023-12-31,Aadhya Mehta,Pune,Laptop,Electronics,1,56812.62,56812.62,Debit Card,23,4.7
+ORD1020,2023-06-18,Vihaan Sharma,Chennai,Jeans,Clothing,1,1574.1,1574.1,Cash,33,4.0
+ORD1535,2023-05-12,Neha Verma,Kolkata,Tablet,Electronics,1,33629.8,33629.8,Cash,26,4.3
+ORD1499,2023-07-17,Anjali Chatterjee,Bangalore,Sugar 1kg,Groceries,1,44.28,44.28,Credit Card,30,2.8
+ORD1766,2023-11-13,Amit Verma,Pune,Dining Table,Furniture,2,24573.08,49146.16,Net Banking,50,2.4
+ORD1822,2023-03-11,Kavya Iyer,Ahmedabad,Wheat Flour 5kg,Groceries,2,220.26,440.52,Debit Card,45,2.5
+ORD1066,2023-06-17,Vivaan Kumar,Delhi,Formal Shoes,Footwear,1,3834.83,3834.83,UPI,48,3.4
+ORD1702,2023-05-17,Rohan Gupta,Ahmedabad,T-Shirt,Clothing,1,303.56,303.56,Net Banking,44,3.3
+ORD1330,2023-12-24,Pooja Mehta,Chennai,Cooking Oil 1L,Groceries,1,142.94,142.94,Cash,26,2.9
+ORD1351,2023-06-24,Vivaan Nair,Ahmedabad,Sofa,Furniture,1,35678.8,35678.8,Cash,22,1.8
+ORD1091,2023-03-10,Pooja Sharma,Lucknow,Dining Table,Furniture,5,12932.99,64664.95,Cash,38,4.4
+ORD1423,2023-12-10,Priya Gupta,Delhi,Perfume,Beauty,1,2377.05,2377.05,Net Banking,37,2.3
+ORD1051,2023-11-02,Diya Sharma,Hyderabad,Jeans,Clothing,2,1557.18,3114.36,UPI,42,3.8
+ORD1350,2023-01-10,Riya Gupta,Ahmedabad,T-Shirt,Clothing,2,963.62,1927.24,Debit Card,35,4.1
+ORD1600,2023-06-25,Diya Patel,Pune,Action Figure,Toys,1,450.74,450.74,Debit Card,42,2.1
+ORD1061,2023-08-24,Riya Mehta,Jaipur,Puzzle Set,Toys,2,610.79,1221.58,Net Banking,45,2.4
+ORD1464,2023-04-28,Reyansh Joshi,Chennai,Puzzle Set,Toys,2,454.28,908.56,Net Banking,46,2.8
+ORD1268,2023-04-09,Diya Mehta,Ahmedabad,Sneakers,Footwear,1,2415.47,2415.47,Debit Card,42,2.7
+ORD1744,2023-05-07,Arjun Chatterjee,Bangalore,Running Shoes,Footwear,2,3899.99,7799.98,Cash,35,2.3
+ORD1719,2023-03-19,Sanjay Joshi,Ahmedabad,Smartwatch,Electronics,1,8968.29,8968.29,Cash,27,2.1
+ORD1118,2023-06-15,Kavya Patel,Hyderabad,Bluetooth Speaker,Electronics,1,3679.37,3679.37,Net Banking,50,2.7
+ORD1671,2023-11-19,Aadhya Verma,Jaipur,Formal Shoes,Footwear,1,4901.88,4901.88,Debit Card,38,2.9
+ORD1519,2023-04-08,Vivaan Joshi,Jaipur,Action Figure,Toys,1,423.86,423.86,UPI,23,4.0
+ORD1836,2023-09-09,Amit Chatterjee,Pune,Sneakers,Footwear,2,1422.45,2844.9,Net Banking,52,3.6
+ORD1427,2023-11-26,Ishaan Iyer,Bangalore,Dress,Clothing,5,2836.18,14180.9,Cash,57,2.0
+ORD1263,2023-02-08,Meera Rao,Chennai,Kurta,Clothing,2,871.01,1742.02,Credit Card,28,3.2
+ORD1102,2023-04-17,Vivaan Patel,Lucknow,Novel,Books,1,523.79,523.79,Credit Card,27,4.1
+ORD1714,2023-04-10,Meera Patel,Chennai,Sandals,Footwear,1,1126.97,1126.97,Cash,18,4.2
+ORD1319,2023-09-21,Ananya Sharma,Hyderabad,Building Blocks,Toys,1,1800.22,1800.22,Net Banking,61,2.2
+ORD1767,2023-03-27,Sai Kumar,Ahmedabad,Office Chair,Furniture,1,5915.66,5915.66,Net Banking,27,2.8
+ORD1444,2023-08-16,Sai Joshi,Mumbai,Face Cream,Beauty,1,689.04,689.04,Credit Card,36,4.2
+ORD1555,2023-05-10,Arjun Chatterjee,Ahmedabad,Action Figure,Toys,1,1370.96,1370.96,UPI,39,1.2
+ORD1202,2023-10-06,Kavya Reddy,Delhi,Headphones,Electronics,2,2076.23,4152.46,UPI,30,1.5
+ORD1828,2023-11-16,Vihaan Joshi,Mumbai,Notebook Set,Books,1,228.65,228.65,Credit Card,42,3.0
+ORD1295,2023-02-06,Ishaan Verma,Ahmedabad,Smartphone,Electronics,4,40012.15,160048.6,Debit Card,44,2.7
+ORD1415,2023-10-28,Sneha Bose,Mumbai,Textbook,Books,2,1257.02,2514.04,UPI,48,4.8
+ORD1644,2023-06-05,Arjun Patel,Delhi,Shampoo,Beauty,1,224.77,224.77,Cash,21,4.8
+ORD1681,2023-02-17,Krishna Sharma,Ahmedabad,Formal Shoes,Footwear,3,5159.22,15477.66,Net Banking,27,3.6
+ORD1086,2023-07-28,Isha Patel,Ahmedabad,Building Blocks,Toys,1,782.42,782.42,Debit Card,24,2.0
+ORD1196,2023-03-15,Krishna Iyer,Jaipur,Bed Frame,Furniture,1,29147.44,29147.44,Cash,40,2.2
+ORD1586,2023-08-10,Vivaan Patel,Mumbai,Comic Book,Books,3,155.01,465.03,Debit Card,35,3.6
+ORD1387,2023-02-13,Meera Patel,Ahmedabad,Novel,Books,1,304.23,304.23,Cash,32,3.9
+ORD1372,2023-07-27,Vihaan Das,Ahmedabad,Lipstick,Beauty,4,1017.31,4069.24,Net Banking,40,2.1
+ORD1805,2023-04-21,Pooja Chatterjee,Kolkata,Bookshelf,Furniture,2,4470.66,8941.32,Cash,18,2.9
+ORD1811,2023-04-18,Arjun Chatterjee,Hyderabad,Notebook Set,Books,2,335.32,670.64,UPI,28,3.7
+ORD1436,2023-03-28,Ishaan Rao,Lucknow,Headphones,Electronics,1,1261.99,1261.99,Debit Card,46,3.3
+ORD1416,2023-08-02,Sanjay Iyer,Hyderabad,Sneakers,Footwear,2,2612.52,5225.04,Cash,22,2.7
+ORD1108,2023-09-26,Ananya Chatterjee,Jaipur,Rice 5kg,Groceries,1,289.34,289.34,Net Banking,35,3.5
+ORD1050,2023-09-17,Aarav Sharma,Ahmedabad,Bluetooth Speaker,Electronics,1,1856.06,1856.06,Cash,49,1.1
+ORD1440,2023-12-13,Amit Verma,Delhi,Face Cream,Beauty,1,461.9,461.9,Credit Card,21,2.7
+ORD1122,2023-12-26,Ananya Chatterjee,Bangalore,Jeans,Clothing,2,774.13,1548.26,Net Banking,23,2.2
+ORD1645,2023-11-27,Ishaan Gupta,Mumbai,Sofa,Furniture,1,19463.01,19463.01,Debit Card,36,2.9
+ORD1522,2023-01-21,Reyansh Bose,Hyderabad,Office Chair,Furniture,1,11982.9,11982.9,UPI,33,2.9
+ORD1480,2023-07-29,Arjun Joshi,Bangalore,Sneakers,Footwear,2,2713.67,5427.34,Credit Card,46,1.2
+ORD1598,2023-08-26,Kavya Iyer,Pune,Bluetooth Speaker,Electronics,1,1390.13,1390.13,Net Banking,24,4.5
+ORD1017,2023-02-08,Sneha Iyer,Delhi,Tea Pack,Groceries,1,382.16,382.16,Credit Card,43,4.3
+ORD1290,2023-10-10,Amit Verma,Bangalore,Notebook Set,Books,1,299.5,299.5,Net Banking,51,2.7
+ORD1692,2023-02-14,Diya Sharma,Kolkata,Smartphone,Electronics,1,11312.25,11312.25,Cash,70,2.2
+ORD1769,2023-10-18,Neha Nair,Mumbai,Formal Shoes,Footwear,1,2237.45,2237.45,Debit Card,32,2.3
+ORD1321,2023-01-03,Kavya Singh,Kolkata,Remote Car,Toys,1,1827.93,1827.93,Net Banking,36,4.0
+ORD1633,2023-11-03,Sai Singh,Mumbai,Action Figure,Toys,1,644.22,644.22,Net Banking,61,2.1
+ORD1347,2023-10-20,Riya Kumar,Chennai,Shampoo,Beauty,2,1185.2,2370.4,Credit Card,45,3.5
+ORD1658,2023-03-04,Neha Patel,Kolkata,Textbook,Books,1,1496.17,1496.17,Credit Card,58,1.1
+ORD1595,2023-05-21,Sneha Das,Ahmedabad,Rice 5kg,Groceries,1,366.43,366.43,Credit Card,21,4.7
+ORD1356,2023-07-03,Aadhya Verma,Pune,Novel,Books,2,164.3,328.6,Credit Card,39,2.8
+ORD1107,2023-02-25,Krishna Verma,Ahmedabad,Shampoo,Beauty,2,463.6,927.2,UPI,36,4.5
+ORD1024,2023-02-27,Aditya Iyer,Ahmedabad,Shampoo,Beauty,4,442.94,1771.76,Debit Card,31,5.0
+ORD1070,2023-11-05,Krishna Iyer,Bangalore,Smartphone,Electronics,1,22484.84,22484.84,UPI,51,2.3
+ORD1601,2023-07-01,Anjali Joshi,Kolkata,Wheat Flour 5kg,Groceries,1,203.34,203.34,Debit Card,34,1.7
+ORD1678,2023-12-03,Vihaan Iyer,Lucknow,Textbook,Books,1,1054.11,1054.11,Net Banking,18,2.0
+ORD1575,2023-10-06,Riya Rao,Ahmedabad,Tea Pack,Groceries,4,223.15,892.6,Debit Card,38,1.7
+ORD1659,2023-01-14,Aarav Sharma,Jaipur,T-Shirt,Clothing,2,903.81,1807.62,Net Banking,34,3.0
+ORD1259,2023-01-15,Rahul Joshi,Kolkata,Novel,Books,1,581.07,581.07,Debit Card,33,3.2
+ORD1120,2023-02-15,Aadhya Reddy,Hyderabad,Comic Book,Books,1,103.08,103.08,Cash,40,3.2
+ORD1258,2023-06-23,Sneha Mehta,Delhi,Tea Pack,Groceries,1,261.64,261.64,Cash,44,2.8
+ORD1176,2023-10-10,Sneha Bose,Bangalore,Running Shoes,Footwear,1,1575.74,1575.74,UPI,35,4.0
+ORD1796,2023-08-09,Diya Bose,Delhi,Lipstick,Beauty,2,1002.56,2005.12,Debit Card,46,1.3
+ORD1777,2023-01-17,Sneha Singh,Jaipur,Dress,Clothing,4,1709.9,6839.6,Cash,41,1.4
+ORD1710,2023-04-21,Sneha Chatterjee,Jaipur,Dining Table,Furniture,1,20730.52,20730.52,Credit Card,25,2.9
+ORD1422,2023-03-16,Isha Verma,Ahmedabad,Comic Book,Books,2,142.84,285.68,UPI,36,2.9
+ORD1449,2023-09-30,Sai Joshi,Pune,Puzzle Set,Toys,1,242.16,242.16,Credit Card,37,2.1
+ORD1302,2023-04-18,Sneha Joshi,Hyderabad,Building Blocks,Toys,1,2212.24,2212.24,Credit Card,18,2.7
+ORD1310,2023-08-09,Rohan Chatterjee,Bangalore,Running Shoes,Footwear,1,4955.79,4955.79,UPI,35,2.5
+ORD1517,2023-08-26,Sai Reddy,Mumbai,Formal Shoes,Footwear,1,1985.06,1985.06,Net Banking,55,2.8
+ORD1121,2023-10-16,Ishaan Chatterjee,Delhi,Shampoo,Beauty,1,309.35,309.35,Debit Card,35,3.8
+ORD1571,2023-10-28,Vivaan Bose,Lucknow,Action Figure,Toys,4,1167.32,4669.28,Credit Card,31,2.9
+ORD1730,2023-03-12,Rohan Reddy,Kolkata,Building Blocks,Toys,1,2401.8,2401.8,UPI,48,4.8
+ORD1229,2023-02-11,Vivaan Chatterjee,Bangalore,Novel,Books,1,525.14,525.14,Net Banking,18,3.3
+ORD1564,2023-09-13,Pooja Bose,Jaipur,Sugar 1kg,Groceries,3,65.6,196.8,Credit Card,57,2.9
+ORD1312,2023-10-22,Neha Sharma,Ahmedabad,Jeans,Clothing,2,2107.53,4215.06,Net Banking,35,3.6
+ORD1614,2023-09-17,Vihaan Reddy,Chennai,Running Shoes,Footwear,2,2553.79,5107.58,Credit Card,31,3.2
+ORD1195,2023-09-05,Aditya Iyer,Delhi,Cooking Oil 1L,Groceries,1,175.8,175.8,Cash,46,2.5
+ORD1186,2023-12-22,Sai Mehta,Chennai,Rice 5kg,Groceries,4,358.8,1435.2,Debit Card,20,4.1
+ORD1340,2023-05-07,Rohan Verma,Delhi,Remote Car,Toys,1,1231.79,1231.79,Net Banking,27,2.1
+ORD1275,2023-09-11,Ishaan Sharma,Lucknow,Jeans,Clothing,1,737.21,737.21,Credit Card,85,4.0
+ORD1246,2023-01-11,Meera Kumar,Jaipur,Bed Frame,Furniture,1,10387.37,10387.37,Credit Card,39,4.1
+ORD1751,2023-11-15,Diya Bose,Delhi,Novel,Books,2,200.76,401.52,Cash,44,1.5
+ORD1062,2023-05-30,Rahul Reddy,Hyderabad,Sandals,Footwear,1,1026.93,1026.93,Cash,56,1.4
+ORD1278,2023-07-02,Aarav Sharma,Bangalore,Smartphone,Electronics,1,34901.1,34901.1,Cash,22,1.1
+ORD1428,2023-11-08,Sanjay Nair,Ahmedabad,Face Cream,Beauty,1,720.0,720.0,Net Banking,35,2.2
+ORD1676,2023-01-31,Anjali Gupta,Hyderabad,Formal Shoes,Footwear,1,1421.13,1421.13,Debit Card,41,4.9
+ORD1494,2023-05-25,Sneha Singh,Bangalore,Tea Pack,Groceries,1,193.41,193.41,Debit Card,39,3.1
+ORD1434,2023-01-21,Amit Iyer,Pune,Novel,Books,5,211.79,1058.95,UPI,26,4.8
+ORD1572,2023-09-30,Isha Iyer,Chennai,Perfume,Beauty,1,2474.56,2474.56,UPI,16,4.7
+ORD1712,2023-07-29,Sneha Chatterjee,Pune,Office Chair,Furniture,2,7377.63,14755.26,UPI,35,3.4
+ORD1136,2023-03-17,Krishna Patel,Chennai,Laptop,Electronics,1,81478.82,81478.82,Net Banking,35,3.3
+ORD1249,2023-08-04,Krishna Nair,Chennai,Sugar 1kg,Groceries,1,62.62,62.62,Cash,35,2.9
+ORD1346,2023-05-29,Riya Verma,Ahmedabad,Headphones,Electronics,1,1965.04,1965.04,Cash,52,3.6
+ORD1799,2023-04-18,Arjun Patel,Chennai,Dress,Clothing,1,1243.23,1243.23,Cash,32,2.9
+ORD1135,2023-12-24,Arjun Bose,Hyderabad,Running Shoes,Footwear,1,3896.4,3896.4,Credit Card,36,3.0
+ORD1508,2023-12-25,Sneha Verma,Lucknow,Dress,Clothing,1,2306.78,2306.78,Cash,28,2.0
+ORD1105,2023-08-14,Diya Mehta,Jaipur,Sofa,Furniture,1,23253.66,23253.66,Credit Card,33,2.5
+ORD1219,2023-03-23,Arjun Gupta,Ahmedabad,Kurta,Clothing,1,1075.76,1075.76,Credit Card,47,2.7
+ORD1850,2023-05-18,Kavya Rao,Lucknow,Sneakers,Footwear,5,2253.92,11269.6,Cash,45,3.1
+ORD1058,2023-08-04,Vivaan Chatterjee,Lucknow,Textbook,Books,1,1041.91,1041.91,UPI,28,3.9
+ORD1731,2023-06-09,Neha Verma,Chennai,Sneakers,Footwear,1,2874.57,2874.57,Credit Card,18,1.9
+ORD1544,2023-05-10,Sneha Chatterjee,Kolkata,Smartwatch,Electronics,1,2763.97,2763.97,Cash,44,4.9
+ORD1615,2023-02-15,Kavya Joshi,Ahmedabad,Bluetooth Speaker,Electronics,2,1511.57,3023.14,Cash,58,4.7
+ORD1412,2023-07-07,Isha Joshi,Jaipur,Office Chair,Furniture,1,3233.28,3233.28,Cash,41,5.0
+ORD1308,2023-05-27,Vivaan Patel,Bangalore,Novel,Books,1,389.21,389.21,Cash,38,4.6
+ORD1507,2023-07-13,Ananya Joshi,Hyderabad,Building Blocks,Toys,3,1078.28,3234.84,Cash,39,1.2
+ORD1468,2023-04-10,Isha Gupta,Mumbai,Bookshelf,Furniture,2,4700.35,9400.7,Net Banking,48,1.5
+ORD1740,2023-01-29,Sai Bose,Ahmedabad,Novel,Books,1,204.85,204.85,Debit Card,50,1.8
+ORD1355,2023-07-07,Riya Joshi,Pune,Headphones,Electronics,2,2581.97,5163.94,UPI,18,2.7
+ORD1450,2023-11-04,Rahul Chatterjee,Hyderabad,Smartwatch,Electronics,2,1717.96,3435.92,Credit Card,39,4.4
+ORD1036,2023-06-26,Aditya Kumar,Mumbai,Dress,Clothing,2,2401.48,4802.96,Net Banking,41,3.7
+ORD1047,2023-02-04,Sai Verma,Bangalore,Sneakers,Footwear,1,1802.54,1802.54,Cash,34,4.2
+ORD1454,2023-02-05,Priya Nair,Ahmedabad,Remote Car,Toys,1,2888.72,2888.72,Net Banking,33,4.1
+ORD1292,2023-03-04,Aarav Patel,Kolkata,Remote Car,Toys,1,2372.94,2372.94,UPI,37,1.3
+ORD1748,2023-07-21,Sanjay Gupta,Chennai,Puzzle Set,Toys,3,519.43,1558.29,Credit Card,42,2.6
+ORD1042,2023-05-06,Neha Das,Ahmedabad,Bookshelf,Furniture,1,3148.93,3148.93,Net Banking,25,4.0
+ORD1225,2023-11-01,Meera Reddy,Kolkata,Bookshelf,Furniture,2,4008.18,8016.36,Debit Card,51,1.4
+ORD1341,2023-08-07,Priya Nair,Ahmedabad,Tablet,Electronics,1,11438.19,11438.19,Debit Card,43,3.5
+ORD1126,2023-01-24,Neha Singh,Chennai,Smartwatch,Electronics,5,3329.03,16645.15,Credit Card,37,2.9
+ORD1803,2023-09-10,Aarav Das,Jaipur,Cooking Oil 1L,Groceries,1,129.77,129.77,UPI,35,2.1
+ORD1655,2023-03-12,Riya Patel,Ahmedabad,Office Chair,Furniture,2,4274.34,8548.68,Net Banking,22,1.1
+ORD1109,2023-11-10,Anjali Gupta,Pune,Notebook Set,Books,3,147.58,442.74,Debit Card,48,1.6
+ORD1579,2023-11-22,Riya Iyer,Hyderabad,Bluetooth Speaker,Electronics,1,4874.49,4874.49,Net Banking,35,2.1
+ORD1197,2023-09-25,Vivaan Nair,Bangalore,Bluetooth Speaker,Electronics,1,3038.72,3038.72,UPI,31,1.7
+ORD1594,2023-08-28,Krishna Patel,Jaipur,Wheat Flour 5kg,Groceries,4,276.77,1107.08,Debit Card,43,3.7
+ORD1551,2023-02-15,Sneha Reddy,Lucknow,Smartphone,Electronics,4,28936.52,115746.08,UPI,27,1.9
+ORD1001,2023-07-08,Rahul Nair,Lucknow,Building Blocks,Toys,2,2396.5,4793.0,UPI,38,3.8
+ORD1684,2023-03-30,Aadhya Joshi,Bangalore,Face Cream,Beauty,1,334.5,334.5,Debit Card,31,1.9
+ORD1530,2023-10-10,Isha Verma,Jaipur,Sandals,Footwear,1,547.06,547.06,UPI,55,3.5
+ORD1245,2023-04-22,Pooja Das,Bangalore,Remote Car,Toys,4,1641.16,6564.64,Debit Card,25,2.0
+ORD1075,2023-05-07,Rohan Sharma,Lucknow,Lipstick,Beauty,1,990.08,990.08,Credit Card,37,4.7
+ORD1161,2023-01-05,Riya Verma,Lucknow,Dining Table,Furniture,1,18004.02,18004.02,UPI,42,2.2
+ORD1732,2023-07-24,Riya Reddy,Mumbai,Formal Shoes,Footwear,2,1832.37,3664.74,Credit Card,26,4.3
+ORD1067,2023-11-30,Rahul Iyer,Jaipur,Office Chair,Furniture,2,10581.91,21163.82,Debit Card,35,3.3
+ORD1577,2023-11-02,Sanjay Chatterjee,Kolkata,Remote Car,Toys,1,2197.56,2197.56,Net Banking,37,1.2
+ORD1736,2023-06-22,Amit Gupta,Pune,Face Cream,Beauty,2,527.68,1055.36,Net Banking,24,2.6
+ORD1413,2023-05-21,Ananya Joshi,Mumbai,Action Figure,Toys,1,1438.78,1438.78,Net Banking,31,2.7
+ORD1761,2023-01-19,Vivaan Patel,Delhi,Comic Book,Books,10,229.14,2291.4,UPI,22,2.0
+ORD1511,2023-11-21,Rohan Patel,Bangalore,Building Blocks,Toys,1,901.38,901.38,Cash,19,2.2
+ORD1724,2023-04-26,Kavya Bose,Ahmedabad,Novel,Books,3,546.77,1640.31,Cash,35,3.9
+ORD1815,2023-04-25,Diya Patel,Chennai,Puzzle Set,Toys,1,502.29,502.29,Net Banking,37,1.8
+ORD1269,2023-04-19,Krishna Patel,Bangalore,Cooking Oil 1L,Groceries,1,208.89,208.89,Cash,19,4.5
+ORD1349,2023-05-17,Aadhya Iyer,Ahmedabad,Shampoo,Beauty,1,658.61,658.61,Net Banking,18,2.9
+ORD1162,2023-06-05,Isha Gupta,Pune,Remote Car,Toys,1,1009.6,1009.6,Cash,50,3.5
+ORD1637,2023-11-13,Meera Bose,Jaipur,Comic Book,Books,1,218.13,218.13,Debit Card,20,1.4
+ORD1845,2023-06-14,Ananya Reddy,Bangalore,Office Chair,Furniture,1,10647.77,10647.77,Debit Card,43,1.8
+ORD1447,2023-05-08,Neha Iyer,Hyderabad,Cooking Oil 1L,Groceries,2,143.48,286.96,Credit Card,36,1.7
+ORD1365,2023-04-06,Ishaan Singh,Lucknow,Puzzle Set,Toys,2,1185.2,2370.4,Cash,36,4.3
+ORD1574,2023-01-15,Ananya Singh,Kolkata,Smartwatch,Electronics,1,9139.13,9139.13,Debit Card,25,2.3
+ORD1248,2023-04-10,Vivaan Patel,Jaipur,Rice 5kg,Groceries,1,296.51,296.51,UPI,21,3.6
+ORD1552,2023-10-05,Riya Nair,Pune,Jeans,Clothing,2,1659.5,3319.0,Credit Card,37,2.8
+ORD1240,2023-07-03,Aadhya Bose,Mumbai,Tea Pack,Groceries,2,143.56,287.12,Debit Card,38,2.9
+ORD1485,2023-05-31,Kavya Joshi,Chennai,Sneakers,Footwear,1,1185.2,1185.2,UPI,18,1.1
+ORD1093,2023-06-21,Riya Joshi,Hyderabad,Remote Car,Toys,2,2565.85,5131.7,Debit Card,45,4.8
+ORD1115,2023-03-25,Sai Gupta,Jaipur,Running Shoes,Footwear,3,4629.05,13887.15,UPI,32,1.9
+ORD1077,2023-07-21,Neha Patel,Kolkata,Bed Frame,Furniture,2,15103.34,30206.68,Debit Card,44,4.7
+ORD1674,2023-12-22,Ananya Singh,Ahmedabad,Face Cream,Beauty,1,531.84,531.84,Credit Card,35,4.6
+ORD1133,2023-06-28,Isha Das,Lucknow,Novel,Books,1,570.24,570.24,Cash,36,4.5
+ORD1606,2023-09-24,Sai Reddy,Jaipur,Office Chair,Furniture,2,9780.34,19560.68,Debit Card,27,3.5
+ORD1728,2023-11-29,Aadhya Das,Kolkata,Perfume,Beauty,5,869.16,4345.8,Net Banking,28,2.0
+ORD1059,2023-10-01,Sai Gupta,Bangalore,Remote Car,Toys,1,1185.2,1185.2,Credit Card,37,4.4
+ORD1247,2023-10-31,Reyansh Das,Jaipur,Sugar 1kg,Groceries,1,41.45,41.45,UPI,28,2.5
+ORD1559,2023-06-07,Arjun Patel,Kolkata,Cooking Oil 1L,Groceries,2,140.09,280.18,UPI,18,4.9
+ORD1783,2023-05-14,Reyansh Singh,Kolkata,Running Shoes,Footwear,1,3107.38,3107.38,UPI,23,1.2
+ORD1041,2023-10-28,Vihaan Kumar,Hyderabad,Notebook Set,Books,4,171.01,684.04,Cash,51,2.0
+ORD1090,2023-01-29,Rahul Rao,Ahmedabad,Headphones,Electronics,2,816.18,1632.36,Cash,24,2.2
+ORD1677,2023-10-07,Arjun Reddy,Pune,Notebook Set,Books,1,106.73,106.73,Debit Card,28,4.3
+ORD1373,2023-06-29,Arjun Chatterjee,Bangalore,Building Blocks,Toys,2,1097.2,2194.4,Cash,49,4.0
+ORD1069,2023-10-23,Krishna Nair,Ahmedabad,Notebook Set,Books,1,194.86,194.86,UPI,18,3.3
+ORD1287,2023-11-18,Rahul Verma,Hyderabad,Bluetooth Speaker,Electronics,1,3722.35,3722.35,UPI,44,2.3
+ORD1140,2023-04-20,Isha Mehta,Mumbai,Sofa,Furniture,1,8469.35,8469.35,UPI,47,4.8
+ORD1523,2023-04-13,Aarav Patel,Hyderabad,Office Chair,Furniture,1,7385.16,7385.16,UPI,48,4.4
+ORD1119,2023-11-16,Sneha Joshi,Hyderabad,Face Cream,Beauty,1,262.19,262.19,UPI,39,1.2
+ORD1529,2023-09-06,Pooja Chatterjee,Lucknow,Puzzle Set,Toys,1,898.82,898.82,Net Banking,48,4.0
+ORD1824,2023-05-05,Anjali Verma,Chennai,Smartwatch,Electronics,1,4638.95,4638.95,Debit Card,27,3.6
+ORD1409,2023-09-08,Reyansh Mehta,Pune,Sandals,Footwear,2,640.04,1280.08,UPI,29,1.2
+ORD1642,2023-07-18,Pooja Reddy,Jaipur,Shampoo,Beauty,2,695.4,1390.8,UPI,37,1.9
+ORD1688,2023-05-17,Priya Rao,Mumbai,T-Shirt,Clothing,1,945.1,945.1,Debit Card,20,2.1
+ORD1832,2023-07-08,Krishna Iyer,Delhi,Jeans,Clothing,1,6413.360000000001,6413.36,Cash,37,2.3
+ORD1497,2023-07-04,Neha Chatterjee,Ahmedabad,Running Shoes,Footwear,2,989.57,1979.14,UPI,33,3.1
+ORD1015,2023-07-17,Sanjay Kumar,Pune,Textbook,Books,1,937.12,937.12,UPI,43,2.9
+ORD1083,2023-03-08,Riya Sharma,Ahmedabad,Sneakers,Footwear,2,1185.2,2370.4,UPI,18,1.3
+ORD1620,2023-02-08,Reyansh Rao,Chennai,Kurta,Clothing,1,606.67,606.67,Debit Card,43,1.3
+ORD1389,2023-10-05,Vivaan Chatterjee,Kolkata,Tablet,Electronics,1,11211.47,11211.47,Credit Card,22,1.3
+ORD1089,2023-06-22,Meera Mehta,Kolkata,Shampoo,Beauty,2,468.3,936.6,Cash,18,4.8
+ORD1274,2023-01-22,Rahul Reddy,Kolkata,Puzzle Set,Toys,1,484.03,484.03,Credit Card,30,2.7
+ORD1173,2023-09-28,Meera Iyer,Mumbai,Lipstick,Beauty,1,856.48,856.48,Credit Card,18,1.7
+ORD1475,2023-09-03,Diya Reddy,Lucknow,Rice 5kg,Groceries,2,331.97,663.94,UPI,33,2.9
+ORD1104,2023-03-30,Ishaan Kumar,Ahmedabad,Bookshelf,Furniture,1,2958.86,2958.86,Debit Card,69,2.6
+ORD1665,2023-10-06,Priya Chatterjee,Ahmedabad,Action Figure,Toys,2,312.96,625.92,Cash,26,4.1
+ORD1390,2023-02-23,Kavya Gupta,Chennai,Remote Car,Toys,1,2944.31,2944.31,Credit Card,34,2.9
+ORD1046,2023-12-23,Ishaan Kumar,Ahmedabad,Shampoo,Beauty,1,253.05,253.05,Credit Card,29,2.6
+ORD1342,2023-01-13,Sneha Chatterjee,Mumbai,Textbook,Books,2,915.51,1831.02,Net Banking,45,1.2
+ORD1788,2023-09-02,Rahul Nair,Bangalore,Face Cream,Beauty,2,549.51,1099.02,Cash,26,2.8
+ORD1539,2023-05-20,Reyansh Joshi,Pune,Bookshelf,Furniture,1,7416.27,7416.27,Cash,39,2.0
+ORD1639,2023-12-16,Amit Reddy,Mumbai,Building Blocks,Toys,5,1492.68,7463.4,Debit Card,43,2.6
+ORD1012,2023-05-01,Neha Chatterjee,Jaipur,Puzzle Set,Toys,1,277.04,277.04,Cash,36,3.1
+ORD1215,2023-02-12,Neha Das,Delhi,Novel,Books,1,153.45,153.45,Net Banking,29,1.2
+ORD1635,2023-09-28,Vihaan Das,Chennai,Jeans,Clothing,1,1467.02,1467.02,Cash,18,2.3
+ORD1148,2023-09-11,Anjali Verma,Bangalore,Dining Table,Furniture,2,10137.68,20275.36,Debit Card,26,2.7
+ORD1300,2023-04-19,Aditya Nair,Hyderabad,Tablet,Electronics,1,32492.52,32492.52,Net Banking,26,4.4
+ORD1495,2023-09-06,Diya Singh,Chennai,Tea Pack,Groceries,1,391.98,391.98,Debit Card,34,1.7
+ORD1800,2023-06-24,Aditya Gupta,Bangalore,Puzzle Set,Toys,1,733.96,733.96,Net Banking,18,3.2
+ORD1393,2023-10-25,Kavya Gupta,Lucknow,Comic Book,Books,1,123.17,123.17,UPI,42,4.3
+ORD1704,2023-09-15,Riya Joshi,Chennai,Shampoo,Beauty,1,601.85,601.85,Debit Card,34,2.8
+ORD1652,2023-08-22,Isha Reddy,Ahmedabad,Tablet,Electronics,1,26172.21,26172.21,Cash,35,4.0
+ORD1683,2023-06-27,Arjun Joshi,Lucknow,Jacket,Clothing,1,3498.65,3498.65,UPI,36,2.8
+ORD1430,2023-07-11,Arjun Gupta,Hyderabad,Jacket,Clothing,2,2496.13,4992.26,UPI,38,4.7
+ORD1227,2023-05-02,Arjun Mehta,Kolkata,Formal Shoes,Footwear,1,3541.69,3541.69,Cash,25,3.4
+ORD1306,2023-11-01,Reyansh Singh,Delhi,Sandals,Footwear,1,1374.81,1374.81,UPI,26,3.2
+ORD1032,2023-09-03,Arjun Kumar,Mumbai,Textbook,Books,1,1079.73,1079.73,Debit Card,41,3.0
+ORD1550,2023-12-19,Ananya Verma,Mumbai,Action Figure,Toys,1,335.0,335.0,Net Banking,27,2.9
+ORD1531,2023-05-05,Sai Singh,Mumbai,Rice 5kg,Groceries,2,276.41,552.82,Cash,42,2.9
+ORD1286,2023-01-22,Ananya Nair,Pune,Dining Table,Furniture,2,10749.23,21498.46,Cash,35,1.3
+ORD1481,2023-07-01,Priya Gupta,Bangalore,Shampoo,Beauty,2,1185.2,2370.4,UPI,38,4.0
+ORD1816,2023-03-08,Vihaan Reddy,Ahmedabad,Novel,Books,5,228.11,1140.55,Credit Card,25,3.9
+ORD1117,2023-07-18,Aditya Chatterjee,Kolkata,Sneakers,Footwear,2,3652.41,7304.82,Debit Card,34,1.5
+ORD1345,2023-08-01,Rahul Iyer,Pune,Office Chair,Furniture,1,4502.42,4502.42,Debit Card,30,1.4
+ORD1096,2023-04-13,Meera Joshi,Ahmedabad,Jacket,Clothing,1,4304.93,4304.93,Cash,46,4.5
+ORD1582,2023-05-12,Rohan Verma,Jaipur,Building Blocks,Toys,1,499.17,499.17,UPI,18,1.7
+ORD1528,2023-02-06,Amit Nair,Pune,Sandals,Footwear,1,523.91,523.91,UPI,36,1.4
+ORD1376,2023-06-14,Amit Mehta,Chennai,Dress,Clothing,2,975.16,1950.32,Credit Card,45,5.0
+ORD1844,2023-03-21,Kavya Iyer,Pune,Bed Frame,Furniture,2,25483.51,50967.02,Debit Card,37,4.7
+ORD1554,2023-05-13,Aditya Rao,Jaipur,Bookshelf,Furniture,1,4293.99,4293.99,Cash,45,3.7
+ORD1063,2023-08-31,Krishna Singh,Chennai,Comic Book,Books,2,92.24,184.48,Debit Card,34,3.9
+ORD1205,2023-05-14,Sanjay Rao,Mumbai,Sugar 1kg,Groceries,2,66.97,133.94,Cash,32,4.2
+ORD1664,2023-10-22,Arjun Nair,Bangalore,T-Shirt,Clothing,3,482.51,1447.53,Cash,42,2.2
+ORD1185,2023-09-11,Amit Chatterjee,Hyderabad,Jacket,Clothing,1,1091.69,1091.69,Net Banking,28,2.9
+ORD1092,2023-03-14,Ishaan Iyer,Ahmedabad,Bed Frame,Furniture,2,9712.13,19424.26,Net Banking,31,2.7
+ORD1842,2023-09-21,Rahul Reddy,Mumbai,Sneakers,Footwear,1,1583.35,1583.35,UPI,38,3.1
+ORD1624,2023-12-17,Sanjay Chatterjee,Ahmedabad,Bluetooth Speaker,Electronics,1,4467.91,4467.91,Cash,40,3.6
+ORD1721,2023-07-07,Krishna Reddy,Chennai,Remote Car,Toys,1,2298.09,2298.09,Credit Card,35,4.7
+ORD1030,2023-05-06,Amit Patel,Ahmedabad,Jeans,Clothing,1,981.59,981.59,Credit Card,44,4.0
+ORD1055,2023-07-14,Sneha Chatterjee,Lucknow,Lipstick,Beauty,3,545.67,1637.01,Cash,20,1.1
+ORD1367,2023-01-03,Ishaan Das,Pune,Perfume,Beauty,5,1297.79,6488.95,Credit Card,24,1.3
+ORD1820,2023-04-03,Riya Das,Ahmedabad,Kurta,Clothing,1,1260.16,1260.16,Debit Card,35,4.0
+ORD1482,2023-05-07,Arjun Nair,Lucknow,Dress,Clothing,2,2665.6,5331.2,Cash,37,3.3
+ORD1147,2023-08-30,Arjun Bose,Delhi,Laptop,Electronics,1,74832.65,74832.65,Net Banking,23,1.8
+ORD1222,2023-10-11,Rahul Reddy,Mumbai,Smartphone,Electronics,2,34979.42,69958.84,Net Banking,36,3.4
+ORD1725,2023-09-26,Aadhya Nair,Hyderabad,Smartphone,Electronics,2,27529.86,55059.72,Credit Card,42,4.0
+ORD1682,2023-01-02,Ishaan Iyer,Delhi,Jeans,Clothing,2,2312.43,4624.86,Credit Card,35,1.3
+ORD1503,2023-09-25,Sneha Sharma,Ahmedabad,Novel,Books,5,381.83,1909.15,UPI,18,2.7
+ORD1492,2023-08-04,Meera Das,Lucknow,Building Blocks,Toys,1,1052.5,1052.5,Credit Card,31,4.5
+ORD1360,2023-01-14,Isha Chatterjee,Pune,Dining Table,Furniture,1,24423.02,24423.02,Cash,39,3.5
+ORD1604,2023-04-23,Amit Joshi,Pune,Notebook Set,Books,5,352.33,1761.65,Credit Card,40,1.9
+ORD1166,2023-10-09,Vihaan Verma,Chennai,Bed Frame,Furniture,1,26264.57,26264.57,Debit Card,30,2.5
+ORD1285,2023-11-21,Ishaan Singh,Mumbai,Sandals,Footwear,5,515.24,2576.2,UPI,36,3.1
+ORD1081,2023-08-10,Sai Gupta,Chennai,Jeans,Clothing,1,1662.02,1662.02,UPI,44,2.6
+ORD1228,2023-10-05,Vihaan Singh,Kolkata,Notebook Set,Books,5,109.28,546.4,Credit Card,36,3.2
+ORD1354,2023-07-22,Arjun Mehta,Kolkata,T-Shirt,Clothing,1,1145.53,1145.53,UPI,37,1.9
+ORD1311,2023-04-06,Ananya Verma,Delhi,Tea Pack,Groceries,1,113.6,113.6,Net Banking,26,4.1
+ORD1260,2023-04-18,Aarav Sharma,Mumbai,Novel,Books,3,366.6,1099.8,Cash,20,1.4
+ORD1324,2023-05-13,Sanjay Patel,Jaipur,Dining Table,Furniture,4,7201.27,28805.08,Cash,35,2.9
+ORD1010,2023-04-06,Vihaan Joshi,Kolkata,Building Blocks,Toys,1,1736.46,1736.46,Net Banking,34,1.8
+ORD1605,2023-06-07,Meera Rao,Lucknow,Cooking Oil 1L,Groceries,2,218.19,436.38,UPI,35,1.3
+ORD1556,2023-07-11,Riya Verma,Ahmedabad,Puzzle Set,Toys,1,847.55,847.55,Debit Card,46,4.3
+ORD1699,2023-03-10,Pooja Gupta,Pune,Face Cream,Beauty,1,659.0,659.0,Net Banking,46,1.3
+ORD1180,2023-05-12,Neha Mehta,Ahmedabad,Bed Frame,Furniture,1,8993.14,8993.14,UPI,40,3.7
+ORD1028,2023-04-13,Vihaan Reddy,Chennai,Face Cream,Beauty,5,353.66,1768.3,UPI,18,3.9
+ORD1718,2023-05-27,Aditya Kumar,Delhi,Face Cream,Beauty,2,577.14,1154.28,UPI,29,4.6
+ORD1362,2023-11-20,Krishna Rao,Chennai,Shampoo,Beauty,1,281.3,281.3,Cash,31,3.8
+ORD1294,2023-09-21,Riya Joshi,Lucknow,Novel,Books,5,264.01,1320.05,Credit Card,27,3.3
+ORD1745,2023-04-05,Ishaan Joshi,Hyderabad,Formal Shoes,Footwear,2,2628.83,5257.66,UPI,31,1.8
+ORD1006,2023-09-27,Kavya Bose,Ahmedabad,Jeans,Clothing,1,1509.56,1509.56,Net Banking,19,4.4
+ORD1198,2023-09-17,Sai Joshi,Hyderabad,Sneakers,Footwear,1,3220.88,3220.88,Credit Card,30,3.0
+ORD1700,2023-05-12,Vivaan Singh,Delhi,Action Figure,Toys,1,1320.38,1320.38,Debit Card,37,3.7
+ORD1698,2023-03-15,Ishaan Bose,Bangalore,Shampoo,Beauty,3,525.32,1575.96,Credit Card,23,3.0
+ORD1782,2023-09-22,Kavya Rao,Chennai,Sandals,Footwear,2,1463.47,2926.94,Net Banking,18,4.7
+ORD1262,2023-05-05,Vivaan Sharma,Kolkata,Notebook Set,Books,2,348.82,697.64,Debit Card,28,2.6
+ORD1448,2023-03-03,Amit Rao,Chennai,Comic Book,Books,1,93.51,93.51,UPI,22,1.4
+ORD1123,2023-04-21,Reyansh Rao,Chennai,Cooking Oil 1L,Groceries,2,182.53,365.06,Debit Card,28,1.7
+ORD1660,2023-12-12,Anjali Bose,Lucknow,T-Shirt,Clothing,1,682.37,682.37,Net Banking,43,3.4
+ORD1502,2023-07-16,Diya Kumar,Ahmedabad,Action Figure,Toys,1,1359.14,1359.14,Net Banking,31,2.9
+ORD1039,2023-08-11,Arjun Gupta,Pune,Action Figure,Toys,5,1417.11,7085.55,Net Banking,41,1.4
+ORD1359,2023-03-01,Sai Singh,Hyderabad,Running Shoes,Footwear,1,2030.61,2030.61,Credit Card,33,2.0
+ORD1763,2023-09-25,Aarav Iyer,Ahmedabad,Bookshelf,Furniture,1,2954.82,2954.82,Credit Card,18,4.5
+ORD1335,2023-11-15,Sanjay Nair,Delhi,Rice 5kg,Groceries,1,465.55,465.55,Cash,53,3.0
+ORD1456,2023-08-12,Sai Nair,Lucknow,Office Chair,Furniture,1,5680.5,5680.5,Debit Card,40,2.9
+ORD1518,2023-10-20,Riya Bose,Lucknow,Action Figure,Toys,2,341.25,682.5,Debit Card,35,5.0
+ORD1163,2023-08-09,Neha Kumar,Hyderabad,Face Cream,Beauty,1,324.48,324.48,Debit Card,33,1.8
+ORD1068,2023-09-27,Aditya Singh,Ahmedabad,Face Cream,Beauty,2,254.83,509.66,Net Banking,33,3.5
+ORD1125,2023-07-30,Amit Singh,Ahmedabad,Formal Shoes,Footwear,1,1409.58,1409.58,UPI,29,1.1
+ORD1040,2023-10-10,Vivaan Singh,Kolkata,Puzzle Set,Toys,1,690.68,690.68,UPI,49,4.5
+ORD1005,2023-07-25,Meera Kumar,Mumbai,Building Blocks,Toys,1,1439.87,1439.87,Debit Card,35,1.1
+ORD1034,2023-06-17,Rohan Rao,Mumbai,Bookshelf,Furniture,1,7619.52,7619.52,UPI,21,3.6
+ORD1602,2023-04-02,Sai Rao,Chennai,Remote Car,Toys,1,1185.2,1185.2,Credit Card,51,4.5
+ORD1404,2023-06-01,Amit Gupta,Kolkata,Dress,Clothing,2,1545.93,3091.86,Credit Card,47,2.9
+ORD1701,2023-07-19,Neha Singh,Pune,Puzzle Set,Toys,1,818.61,818.61,Debit Card,28,2.0
+ORD1336,2023-02-17,Sneha Nair,Pune,Wheat Flour 5kg,Groceries,1,291.87,291.87,Cash,34,3.1
+ORD1281,2023-01-22,Riya Patel,Kolkata,Building Blocks,Toys,1,1712.56,1712.56,UPI,35,2.0
+ORD1618,2023-08-04,Diya Rao,Pune,Jeans,Clothing,1,932.32,932.32,Debit Card,29,1.2
+ORD1100,2023-06-02,Kavya Sharma,Kolkata,Textbook,Books,1,655.57,655.57,Credit Card,31,2.6
+ORD1648,2023-01-04,Diya Patel,Lucknow,Tea Pack,Groceries,2,264.83,529.66,UPI,37,1.6
+ORD1670,2023-03-23,Diya Kumar,Lucknow,Shampoo,Beauty,2,677.9,1355.8,Cash,35,2.6
+ORD1237,2023-04-23,Krishna Nair,Pune,Remote Car,Toys,2,2994.77,5989.54,UPI,40,1.6
+ORD1553,2023-09-26,Vivaan Gupta,Lucknow,Formal Shoes,Footwear,1,2258.26,2258.26,Net Banking,30,3.5
+ORD1679,2023-02-25,Amit Singh,Mumbai,Novel,Books,1,451.48,451.48,Cash,36,1.1
+ORD1458,2023-04-24,Reyansh Chatterjee,Jaipur,Dining Table,Furniture,1,14450.31,14450.31,Debit Card,45,3.3
+ORD1473,2023-12-20,Sai Iyer,Bangalore,Formal Shoes,Footwear,2,5628.5,11257.0,Debit Card,37,1.8
+ORD1496,2023-05-08,Riya Singh,Ahmedabad,Sandals,Footwear,2,852.43,1704.86,Credit Card,38,1.7
+ORD1520,2023-05-08,Reyansh Mehta,Kolkata,Formal Shoes,Footwear,2,2715.57,5431.14,Net Banking,32,3.4
+ORD1667,2023-10-18,Aarav Singh,Chennai,Remote Car,Toys,2,2367.01,4734.02,UPI,35,1.3
+ORD1810,2023-03-31,Aditya Nair,Ahmedabad,Jacket,Clothing,1,2026.05,2026.05,UPI,35,2.4
+ORD1400,2023-08-18,Neha Sharma,Delhi,T-Shirt,Clothing,1,821.72,821.72,Cash,36,1.8
+ORD1839,2023-01-20,Ishaan Rao,Kolkata,Laptop,Electronics,1,61347.08,61347.08,Credit Card,35,3.4
+ORD1429,2023-10-03,Diya Nair,Delhi,Bed Frame,Furniture,2,24380.61,48761.22,Credit Card,19,3.0
+ORD1353,2023-03-11,Meera Rao,Pune,Novel,Books,1,223.98,223.98,Cash,55,2.6
+ORD1588,2023-11-06,Neha Verma,Jaipur,Remote Car,Toys,2,2914.64,5829.28,UPI,35,1.3
+ORD1746,2023-12-28,Ananya Chatterjee,Delhi,Rice 5kg,Groceries,2,426.33,852.66,Credit Card,28,1.2
+ORD1013,2023-06-01,Aadhya Rao,Hyderabad,Novel,Books,1,461.6,461.6,Credit Card,34,2.9
+ORD1187,2023-07-07,Anjali Bose,Chennai,Rice 5kg,Groceries,2,289.73,579.46,Net Banking,33,2.0
+ORD1603,2023-10-03,Riya Joshi,Ahmedabad,Textbook,Books,1,1156.38,1156.38,Net Banking,34,1.3
+ORD1609,2023-10-07,Ananya Patel,Bangalore,Sandals,Footwear,5,1029.22,5146.1,Credit Card,41,1.8
+ORD1435,2023-06-06,Krishna Iyer,Hyderabad,Shampoo,Beauty,1,617.93,617.93,Cash,19,4.4
+ORD1809,2023-11-02,Riya Kumar,Hyderabad,Sugar 1kg,Groceries,1,64.24,64.24,Cash,30,4.2
+ORD1375,2023-11-25,Reyansh Gupta,Bangalore,Bed Frame,Furniture,1,14275.62,14275.62,Cash,40,4.3
+ORD1261,2023-07-06,Anjali Das,Kolkata,Wheat Flour 5kg,Groceries,1,264.7,264.7,Credit Card,29,1.1
+ORD1484,2023-12-07,Sai Sharma,Chennai,Wheat Flour 5kg,Groceries,1,231.16,231.16,Debit Card,35,5.0
+ORD1334,2023-07-03,Vivaan Patel,Hyderabad,Puzzle Set,Toys,1,775.67,775.67,Net Banking,34,3.2
+ORD1154,2023-11-17,Anjali Joshi,Kolkata,Novel,Books,2,481.73,963.46,Cash,31,1.4
+ORD1397,2023-05-02,Ananya Das,Ahmedabad,Notebook Set,Books,2,218.78,437.56,Credit Card,37,4.9
+ORD1613,2023-04-02,Ananya Sharma,Delhi,Smartphone,Electronics,1,26602.99,26602.99,Cash,41,3.4
+ORD1305,2023-08-27,Priya Sharma,Kolkata,Bed Frame,Furniture,2,26892.65,53785.3,Net Banking,39,1.8
+ORD1201,2023-08-14,Amit Gupta,Lucknow,Kurta,Clothing,1,1188.9,1188.9,Cash,32,2.9
+ORD1395,2023-03-06,Aditya Iyer,Ahmedabad,Notebook Set,Books,2,192.33,384.66,UPI,46,2.3
+ORD1527,2023-09-05,Neha Iyer,Lucknow,Sneakers,Footwear,2,4171.15,8342.3,Debit Card,25,4.0
+ORD1374,2023-06-13,Vivaan Reddy,Mumbai,Sugar 1kg,Groceries,1,44.48,44.48,Net Banking,38,4.2
+ORD1524,2023-04-24,Diya Kumar,Hyderabad,Kurta,Clothing,4,1676.41,6705.64,Credit Card,38,3.6
+ORD1079,2023-06-05,Sneha Singh,Delhi,Tablet,Electronics,2,24095.3,48190.6,Credit Card,36,1.7
+ORD1313,2023-08-03,Aditya Singh,Lucknow,Building Blocks,Toys,1,1220.59,1220.59,Cash,52,2.9
+ORD1808,2023-02-24,Kavya Bose,Lucknow,Kurta,Clothing,1,1318.85,1318.85,Credit Card,28,2.9
+ORD1437,2023-08-12,Aditya Kumar,Bangalore,Office Chair,Furniture,2,6878.53,13757.06,Net Banking,30,1.6
+ORD1709,2023-01-05,Kavya Verma,Delhi,Office Chair,Furniture,1,3204.67,3204.67,Net Banking,35,2.2
+ORD1043,2023-11-08,Aarav Reddy,Kolkata,Bed Frame,Furniture,1,11700.16,11700.16,Net Banking,18,1.2
+ORD1837,2023-03-19,Riya Das,Mumbai,Shampoo,Beauty,1,440.99,440.99,UPI,28,2.9
+ORD1134,2023-10-21,Neha Nair,Chennai,Building Blocks,Toys,1,1482.75,1482.75,Debit Card,39,1.6
+ORD1541,2023-03-16,Isha Gupta,Bangalore,T-Shirt,Clothing,3,340.78,1022.34,Net Banking,33,3.7
+ORD1460,2023-11-02,Kavya Joshi,Ahmedabad,Face Cream,Beauty,1,407.13,407.13,Debit Card,35,3.2
+ORD1672,2023-06-14,Riya Bose,Ahmedabad,Perfume,Beauty,1,2474.56,2474.56,Debit Card,35,3.5
+ORD1723,2023-07-08,Vivaan Mehta,Delhi,T-Shirt,Clothing,1,6413.360000000001,6413.36,Cash,18,4.0
+ORD1580,2023-07-25,Sneha Das,Ahmedabad,Sugar 1kg,Groceries,1,67.8,67.8,Debit Card,45,3.8
+ORD1251,2023-12-03,Vihaan Joshi,Lucknow,Novel,Books,1,320.59,320.59,UPI,43,3.4
+ORD1726,2023-08-16,Anjali Das,Ahmedabad,Running Shoes,Footwear,2,4723.83,9447.66,UPI,49,3.0
+ORD1765,2023-12-12,Isha Sharma,Delhi,Laptop,Electronics,1,32209.82,32209.82,Cash,26,1.4
+ORD1483,2023-01-05,Ananya Mehta,Chennai,Rice 5kg,Groceries,3,351.6,1054.8,Net Banking,34,3.7
+ORD1193,2023-05-05,Reyansh Reddy,Ahmedabad,Face Cream,Beauty,1,651.77,651.77,Cash,18,4.5
+ORD1221,2023-12-16,Krishna Verma,Delhi,Sandals,Footwear,2,935.99,1871.98,UPI,28,1.5
+ORD1593,2023-12-24,Ananya Nair,Chennai,Notebook Set,Books,2,174.24,348.48,Net Banking,35,1.0
+ORD1608,2023-02-18,Vihaan Singh,Kolkata,Sandals,Footwear,1,1147.18,1147.18,Credit Card,38,3.1
+ORD1545,2023-09-12,Sai Reddy,Pune,Action Figure,Toys,1,1203.42,1203.42,UPI,49,2.7
+ORD1433,2023-05-06,Anjali Nair,Delhi,Notebook Set,Books,3,129.25,387.75,UPI,31,4.2
+ORD1532,2023-08-25,Ishaan Bose,Bangalore,Smartphone,Electronics,1,23983.61,23983.61,Cash,34,1.8
+ORD1818,2023-06-23,Krishna Joshi,Lucknow,Sugar 1kg,Groceries,1,50.17,50.17,Cash,25,2.9
+ORD1031,2023-03-17,Kavya Gupta,Kolkata,Action Figure,Toys,1,1034.06,1034.06,Credit Card,35,2.4
+ORD1755,2023-07-07,Aarav Kumar,Lucknow,Bed Frame,Furniture,1,27922.67,27922.67,Debit Card,40,4.6
+ORD1638,2023-05-10,Arjun Sharma,Chennai,Action Figure,Toys,2,1099.83,2199.66,Debit Card,37,3.8
+ORD1446,2023-11-01,Neha Verma,Kolkata,Shampoo,Beauty,1,264.19,264.19,Debit Card,38,1.0
+ORD1396,2023-07-27,Anjali Chatterjee,Jaipur,Bed Frame,Furniture,2,18713.14,37426.28,Net Banking,35,2.3
+ORD1158,2023-07-25,Neha Verma,Lucknow,Tablet,Electronics,1,9595.24,9595.24,Credit Card,41,2.3
+ORD1636,2023-09-28,Meera Das,Pune,Rice 5kg,Groceries,2,276.64,553.28,Credit Card,50,1.4
+ORD1273,2023-12-09,Sneha Joshi,Kolkata,Building Blocks,Toys,2,1957.98,3915.96,Credit Card,28,2.3
+ORD1781,2023-12-09,Diya Sharma,Hyderabad,Dining Table,Furniture,1,11479.59,11479.59,Cash,32,4.8
+ORD1144,2023-08-29,Rohan Chatterjee,Lucknow,Action Figure,Toys,1,521.5,521.5,Cash,35,1.3
+ORD1737,2023-12-05,Sanjay Nair,Delhi,Sneakers,Footwear,1,1185.2,1185.2,Credit Card,48,2.7
+ORD1307,2023-01-25,Amit Das,Jaipur,Formal Shoes,Footwear,1,4505.43,4505.43,Credit Card,32,1.5
+ORD1378,2023-04-17,Pooja Sharma,Pune,Lipstick,Beauty,1,844.86,844.86,Net Banking,35,1.1
+ORD1103,2023-06-26,Ishaan Gupta,Chennai,Novel,Books,5,176.03,880.15,Net Banking,18,5.0
+ORD1053,2023-03-22,Arjun Chatterjee,Chennai,Building Blocks,Toys,1,1025.71,1025.71,Credit Card,31,4.9
+ORD1727,2023-02-02,Vihaan Mehta,Bangalore,Running Shoes,Footwear,1,2507.07,2507.07,Cash,29,2.1
+ORD1157,2023-06-15,Sneha Chatterjee,Bangalore,Cooking Oil 1L,Groceries,1,170.12,170.12,Debit Card,41,2.2
+ORD1284,2023-01-29,Pooja Verma,Lucknow,Remote Car,Toys,2,2484.65,4969.3,Credit Card,44,1.3
+ORD1403,2023-09-25,Vihaan Verma,Lucknow,Textbook,Books,10,678.01,6780.1,Net Banking,22,5.0
+ORD1538,2023-06-25,Isha Joshi,Delhi,Bluetooth Speaker,Electronics,1,2235.35,2235.35,UPI,33,2.9
+ORD1561,2023-12-07,Neha Bose,Hyderabad,Dress,Clothing,1,2574.38,2574.38,Credit Card,34,1.6
+ORD1098,2023-09-04,Priya Chatterjee,Mumbai,Jacket,Clothing,1,4045.35,4045.35,Credit Card,35,2.6
+ORD1568,2023-07-15,Rohan Mehta,Ahmedabad,Comic Book,Books,1,213.01,213.01,Net Banking,37,4.1
+ORD1129,2023-03-25,Vivaan Nair,Hyderabad,Sugar 1kg,Groceries,1,53.36,53.36,Credit Card,20,4.1
+ORD1379,2023-12-14,Aarav Bose,Kolkata,Kurta,Clothing,3,560.21,1680.63,Debit Card,27,2.2
+ORD1487,2023-11-20,Rahul Sharma,Pune,Shampoo,Beauty,4,330.77,1323.08,Credit Card,42,1.3
+ORD1178,2023-01-10,Rahul Joshi,Pune,Wheat Flour 5kg,Groceries,2,248.25,496.5,UPI,43,2.4
+ORD1348,2023-12-26,Pooja Rao,Delhi,Comic Book,Books,1,148.61,148.61,Cash,46,1.7
+ORD1111,2023-08-12,Vivaan Bose,Kolkata,Bookshelf,Furniture,1,6446.68,6446.68,Net Banking,40,4.8
+ORD1663,2023-02-21,Aarav Sharma,Lucknow,Puzzle Set,Toys,1,260.06,260.06,Net Banking,19,1.3
+ORD1380,2023-07-14,Rohan Rao,Delhi,Jacket,Clothing,1,4373.38,4373.38,Debit Card,35,2.7
+ORD1192,2023-03-27,Meera Sharma,Mumbai,Kurta,Clothing,1,1584.22,1584.22,Cash,64,4.8
+ORD1420,2023-10-30,Krishna Gupta,Lucknow,Remote Car,Toys,1,1968.69,1968.69,UPI,37,2.0
+ORD1204,2023-11-09,Rahul Singh,Chennai,Puzzle Set,Toys,1,452.26,452.26,Cash,28,4.2
+ORD1344,2023-03-13,Diya Sharma,Ahmedabad,Perfume,Beauty,2,1897.05,3794.1,Debit Card,43,4.0
+ORD1641,2023-09-04,Vihaan Chatterjee,Hyderabad,T-Shirt,Clothing,2,564.44,1128.88,Credit Card,25,3.0
+ORD1776,2023-06-01,Diya Singh,Chennai,Sandals,Footwear,2,553.11,1106.22,Net Banking,23,2.7
+ORD1689,2023-01-07,Ishaan Gupta,Hyderabad,Perfume,Beauty,1,1588.3,1588.3,Debit Card,55,2.1
+ORD1489,2023-03-04,Anjali Nair,Mumbai,Tablet,Electronics,2,31113.11,62226.22,Credit Card,26,2.9
+ORD1238,2023-05-07,Aarav Kumar,Bangalore,Lipstick,Beauty,2,968.92,1937.84,Credit Card,42,2.1
+ORD1401,2023-07-08,Aditya Iyer,Ahmedabad,Kurta,Clothing,1,1328.55,1328.55,Debit Card,44,1.6
+ORD1233,2023-12-18,Sai Bose,Pune,Dining Table,Furniture,1,24619.75,24619.75,Debit Card,64,2.8
+ORD1443,2023-04-07,Sneha Nair,Delhi,Cooking Oil 1L,Groceries,1,136.78,136.78,Credit Card,18,2.5
+ORD1099,2023-08-27,Anjali Mehta,Jaipur,Sneakers,Footwear,3,3121.77,9365.31,Cash,30,2.4
+ORD1802,2023-03-28,Rahul Singh,Delhi,Face Cream,Beauty,1,266.11,266.11,UPI,32,4.8
+ORD1138,2023-04-12,Riya Reddy,Mumbai,Cooking Oil 1L,Groceries,1,827.52,827.52,Credit Card,50,4.5
+ORD1512,2023-10-23,Priya Kumar,Hyderabad,Shampoo,Beauty,1,328.02,328.02,Credit Card,18,1.9
+ORD1547,2023-04-24,Ananya Bose,Ahmedabad,Notebook Set,Books,1,362.06,362.06,Debit Card,32,4.0
+ORD1218,2023-12-13,Isha Nair,Pune,Building Blocks,Toys,1,2124.52,2124.52,Credit Card,44,3.7
+ORD1361,2023-04-10,Aditya Mehta,Ahmedabad,Sofa,Furniture,2,30186.72,60373.44,Net Banking,52,3.1
+ORD1650,2023-05-21,Aadhya Verma,Delhi,Face Cream,Beauty,1,722.47,722.47,UPI,44,4.6
+ORD1548,2023-01-26,Riya Verma,Lucknow,Perfume,Beauty,1,525.86,525.86,Net Banking,46,3.9
+ORD1226,2023-12-10,Aditya Rao,Chennai,Tablet,Electronics,1,34272.66,34272.66,Debit Card,57,2.3
+ORD1019,2023-06-10,Pooja Kumar,Delhi,Perfume,Beauty,1,2474.56,2474.56,Cash,41,4.9
+ORD1169,2023-01-08,Priya Iyer,Jaipur,Sneakers,Footwear,1,4456.62,4456.62,Net Banking,18,2.8
+ORD1293,2023-11-27,Kavya Verma,Pune,Sandals,Footwear,2,1179.28,2358.56,UPI,45,2.9
+ORD1542,2023-03-10,Priya Patel,Lucknow,Sugar 1kg,Groceries,2,42.52,85.04,Credit Card,26,1.4
+ORD1398,2023-06-13,Isha Joshi,Bangalore,T-Shirt,Clothing,1,308.93,308.93,Cash,24,1.5
+ORD1329,2023-10-03,Reyansh Singh,Pune,Perfume,Beauty,1,2474.56,2474.56,Cash,32,1.3
+ORD1685,2023-11-13,Isha Singh,Lucknow,Rice 5kg,Groceries,1,297.1,297.1,Cash,40,4.8
+ORD1560,2023-01-31,Ananya Nair,Jaipur,Puzzle Set,Toys,5,479.76,2398.8,Debit Card,46,1.1
+ORD1094,2023-01-12,Kavya Iyer,Bangalore,Laptop,Electronics,1,69886.42,69886.42,Net Banking,28,4.4
+ORD1214,2023-08-29,Aditya Iyer,Bangalore,Cooking Oil 1L,Groceries,1,217.15,217.15,Cash,34,3.1
+ORD1338,2023-05-11,Priya Reddy,Mumbai,Puzzle Set,Toys,1,798.29,798.29,Net Banking,36,3.2
+ORD1426,2023-05-17,Vihaan Sharma,Bangalore,Smartwatch,Electronics,2,8318.48,16636.96,Net Banking,24,3.7
+ORD1711,2023-11-04,Kavya Das,Delhi,Building Blocks,Toys,1,2294.02,2294.02,UPI,37,1.6
+ORD1116,2023-09-28,Diya Rao,Ahmedabad,Face Cream,Beauty,1,638.75,638.75,Cash,38,4.5
+ORD1159,2023-08-26,Neha Gupta,Bangalore,Puzzle Set,Toys,3,297.44,892.32,Credit Card,34,3.0
+ORD1113,2023-01-07,Ananya Sharma,Hyderabad,Action Figure,Toys,2,835.15,1670.3,UPI,42,2.9
+ORD1037,2023-03-03,Neha Patel,Hyderabad,Action Figure,Toys,1,585.88,585.88,Net Banking,38,4.8
+ORD1106,2023-02-06,Kavya Chatterjee,Kolkata,Perfume,Beauty,1,2474.56,2474.56,Net Banking,26,3.0
+ORD1363,2023-09-21,Reyansh Iyer,Ahmedabad,Bookshelf,Furniture,1,3205.23,3205.23,Net Banking,51,3.1
+ORD1366,2023-12-03,Ishaan Gupta,Kolkata,Office Chair,Furniture,1,9118.6,9118.6,UPI,45,2.6
+ORD1442,2023-11-03,Ishaan Singh,Ahmedabad,Tablet,Electronics,1,1185.2,1185.2,Debit Card,43,1.0
+ORD1352,2023-04-26,Amit Singh,Delhi,Comic Book,Books,1,155.26,155.26,Debit Card,45,3.4
+ORD1250,2023-01-13,Anjali Sharma,Hyderabad,Smartwatch,Electronics,1,2396.08,2396.08,Net Banking,31,4.3
+ORD1756,2023-12-12,Rahul Verma,Lucknow,Jacket,Clothing,1,2497.7,2497.7,Cash,35,2.6
+ORD1705,2023-03-28,Riya Verma,Lucknow,Bluetooth Speaker,Electronics,2,4755.63,9511.26,Cash,20,3.0
+ORD1407,2023-04-08,Pooja Reddy,Mumbai,Sofa,Furniture,1,14381.17,14381.17,Cash,35,4.8
+ORD1759,2023-05-18,Kavya Mehta,Lucknow,Sugar 1kg,Groceries,1,68.91,68.91,Net Banking,40,1.1
+ORD1165,2023-03-06,Priya Singh,Lucknow,Comic Book,Books,2,208.07,416.14,Debit Card,33,2.1
+ORD1780,2023-07-26,Sneha Gupta,Mumbai,Tablet,Electronics,1,20362.88,20362.88,UPI,48,1.6
+ORD1720,2023-12-31,Priya Gupta,Mumbai,Dress,Clothing,2,946.99,1893.98,Net Banking,18,1.2
+ORD1735,2023-01-17,Pooja Das,Bangalore,Rice 5kg,Groceries,1,261.19,261.19,UPI,18,2.6
+ORD1084,2023-02-05,Sneha Verma,Delhi,T-Shirt,Clothing,1,447.49,447.49,Debit Card,25,2.5
+ORD1814,2023-10-11,Vivaan Patel,Ahmedabad,Lipstick,Beauty,5,585.86,2929.3,Net Banking,26,3.4
+ORD1296,2023-04-02,Sneha Verma,Hyderabad,Cooking Oil 1L,Groceries,4,184.93,739.72,UPI,23,1.8
+ORD1071,2023-08-19,Vihaan Chatterjee,Hyderabad,Lipstick,Beauty,2,994.03,1988.06,Credit Card,44,1.1
+ORD1591,2023-10-29,Krishna Mehta,Jaipur,Tablet,Electronics,1,23189.49,23189.49,UPI,31,4.9
+ORD1825,2023-05-25,Ishaan Iyer,Ahmedabad,Dress,Clothing,1,1861.39,1861.39,UPI,33,2.0
+ORD1578,2023-12-03,Ananya Bose,Mumbai,Jeans,Clothing,2,795.09,1590.18,Debit Card,34,3.4
+ORD1128,2023-03-28,Rohan Das,Mumbai,Dining Table,Furniture,4,19316.5,77266.0,Credit Card,50,2.0
+ORD1747,2023-05-10,Anjali Joshi,Chennai,Sugar 1kg,Groceries,2,42.77,85.54,Cash,47,2.9
+ORD1002,2023-10-21,Vivaan Das,Kolkata,Novel,Books,2,586.46,1172.92,Credit Card,46,3.1
+ORD1583,2023-12-26,Aditya Nair,Pune,Jeans,Clothing,2,2217.66,4435.32,Debit Card,44,3.4
+ORD1540,2023-04-24,Isha Patel,Hyderabad,Cooking Oil 1L,Groceries,4,146.8,587.2,Cash,41,2.2
+ORD1309,2023-07-23,Aadhya Patel,Ahmedabad,Shampoo,Beauty,3,158.84,476.52,Cash,38,2.8
+ORD1411,2023-11-30,Priya Singh,Jaipur,Face Cream,Beauty,1,895.94,895.94,Debit Card,58,1.2
+ORD1172,2023-09-23,Rahul Kumar,Ahmedabad,Laptop,Electronics,3,56086.59,168259.77,Net Banking,25,4.0
+ORD1418,2023-06-22,Isha Iyer,Pune,Building Blocks,Toys,1,2492.71,2492.71,Net Banking,18,1.5
+ORD1673,2023-12-05,Arjun Nair,Pune,Puzzle Set,Toys,4,257.92,1031.68,UPI,32,1.7
+ORD1461,2023-10-01,Rohan Kumar,Kolkata,Action Figure,Toys,1,1185.2,1185.2,Net Banking,49,2.4
+ORD1770,2023-05-20,Kavya Bose,Bangalore,Sneakers,Footwear,1,2641.45,2641.45,Net Banking,32,3.8
+ORD1424,2023-07-01,Riya Patel,Delhi,Formal Shoes,Footwear,2,5080.3,10160.6,Cash,35,2.5
+ORD1316,2023-12-22,Reyansh Reddy,Lucknow,Sugar 1kg,Groceries,1,60.84,60.84,Net Banking,47,2.9
+ORD1377,2023-12-07,Riya Bose,Kolkata,Dining Table,Furniture,2,20876.36,41752.72,Debit Card,58,3.7
+ORD1525,2023-09-12,Diya Mehta,Ahmedabad,Dress,Clothing,2,2398.91,4797.82,UPI,34,4.5
+ORD1771,2023-07-21,Ishaan Kumar,Lucknow,Textbook,Books,1,429.55,429.55,Cash,31,2.3
+ORD1439,2023-08-29,Priya Sharma,Mumbai,Dress,Clothing,1,934.21,934.21,Credit Card,33,1.1
+ORD1651,2023-02-18,Riya Reddy,Delhi,Notebook Set,Books,1,224.09,224.09,Cash,27,4.4
+ORD1151,2023-03-08,Amit Das,Lucknow,Face Cream,Beauty,1,353.36,353.36,UPI,33,2.5
+ORD1156,2023-06-03,Vihaan Verma,Pune,Headphones,Electronics,1,3388.5,3388.5,UPI,21,3.3
+ORD1557,2023-10-08,Kavya Sharma,Kolkata,Dress,Clothing,2,983.2,1966.4,Debit Card,24,2.9
+ORD1757,2023-11-06,Anjali Verma,Pune,Dining Table,Furniture,1,19622.06,19622.06,Net Banking,26,2.0
+ORD1410,2023-01-08,Sanjay Mehta,Chennai,Puzzle Set,Toys,1,558.2,558.2,Cash,21,3.2
+ORD1764,2023-08-29,Amit Iyer,Ahmedabad,Laptop,Electronics,1,46775.56,46775.56,UPI,38,1.0
+ORD1649,2023-01-28,Rahul Verma,Lucknow,Perfume,Beauty,1,1837.08,1837.08,Net Banking,39,1.2
+ORD1734,2023-02-10,Krishna Gupta,Delhi,Puzzle Set,Toys,1,787.45,787.45,Net Banking,22,2.5
+ORD1209,2023-01-02,Ishaan Chatterjee,Hyderabad,Smartwatch,Electronics,3,2177.16,6531.48,Net Banking,28,2.1
+ORD1441,2023-09-29,Sneha Mehta,Delhi,Running Shoes,Footwear,1,4118.76,4118.76,Debit Card,48,2.2
+ORD1132,2023-11-30,Vivaan Patel,Kolkata,Remote Car,Toys,1,1939.54,1939.54,Credit Card,45,1.5
+ORD1381,2023-10-25,Krishna Sharma,Ahmedabad,Notebook Set,Books,1,330.57,330.57,Credit Card,43,1.8
+ORD1175,2023-05-29,Priya Joshi,Kolkata,Action Figure,Toys,1,610.12,610.12,Net Banking,38,4.7
+ORD1534,2023-04-13,Ishaan Mehta,Mumbai,Formal Shoes,Footwear,1,1994.02,1994.02,UPI,49,4.5
+ORD1271,2023-03-10,Rahul Joshi,Jaipur,Action Figure,Toys,1,638.97,638.97,Credit Card,33,3.9
+ORD1408,2023-04-29,Meera Patel,Lucknow,Comic Book,Books,1,213.12,213.12,Net Banking,54,4.3
+ORD1791,2023-10-04,Aarav Nair,Delhi,Office Chair,Furniture,5,11790.94,58954.7,Cash,42,3.7
+ORD1124,2023-01-12,Priya Patel,Bangalore,Comic Book,Books,1,239.46,239.46,Cash,34,2.9
+ORD1139,2023-05-23,Aarav Das,Lucknow,Bluetooth Speaker,Electronics,1,3086.85,3086.85,Net Banking,59,3.2
+ORD1052,2023-12-04,Aadhya Rao,Bangalore,Sofa,Furniture,2,39374.81,78749.62,Cash,50,2.8
+ORD1276,2023-10-19,Meera Patel,Ahmedabad,Novel,Books,1,381.23,381.23,Debit Card,24,3.9
+ORD1343,2023-07-21,Diya Bose,Kolkata,Headphones,Electronics,4,2652.95,10611.8,Credit Card,42,2.9
+ORD1257,2023-10-28,Riya Rao,Kolkata,Puzzle Set,Toys,2,827.25,1654.5,Cash,22,2.4
+ORD1183,2023-06-22,Vihaan Joshi,Pune,Dress,Clothing,1,2492.68,2492.68,UPI,43,2.9
+ORD1301,2023-08-02,Ishaan Chatterjee,Kolkata,Building Blocks,Toys,1,1971.55,1971.55,Net Banking,32,2.9
+ORD1675,2023-03-31,Amit Das,Ahmedabad,Bluetooth Speaker,Electronics,1,2642.48,2642.48,Debit Card,33,1.0
+ORD1241,2023-01-21,Riya Singh,Bangalore,Smartphone,Electronics,5,31697.61,158488.05,Credit Card,33,4.3
+ORD1231,2023-10-11,Arjun Sharma,Kolkata,Jacket,Clothing,1,1704.59,1704.59,UPI,35,2.4
+ORD1327,2023-05-30,Neha Iyer,Ahmedabad,Jacket,Clothing,1,3074.94,3074.94,Credit Card,22,4.5
+ORD1459,2023-04-27,Sai Patel,Ahmedabad,Dining Table,Furniture,1,19505.74,19505.74,Cash,31,2.0
+ORD1466,2023-03-09,Ananya Verma,Delhi,Tablet,Electronics,1,18892.53,18892.53,Net Banking,24,3.7
+ORD1164,2023-08-17,Amit Singh,Pune,Remote Car,Toys,2,1593.91,3187.82,Cash,45,2.7
+ORD1168,2023-09-21,Amit Iyer,Delhi,Face Cream,Beauty,1,768.85,768.85,Cash,33,4.5
+ORD1146,2023-07-27,Meera Mehta,Kolkata,T-Shirt,Clothing,4,1047.87,4191.48,UPI,27,3.7
+ORD1207,2023-11-23,Isha Bose,Jaipur,Jacket,Clothing,1,3817.17,3817.17,Credit Card,39,1.4
+ORD1501,2023-04-28,Rohan Mehta,Chennai,Smartphone,Electronics,4,31133.0,124532.0,Cash,35,4.8
+ORD1189,2023-01-21,Vihaan Verma,Delhi,Sofa,Furniture,1,27830.38,27830.38,Debit Card,23,4.5
+ORD1325,2023-08-02,Sneha Bose,Delhi,Perfume,Beauty,1,2297.91,2297.91,Net Banking,18,3.7
+ORD1798,2023-08-08,Kavya Patel,Hyderabad,Sugar 1kg,Groceries,1,49.44,49.44,Cash,45,2.9
+ORD1576,2023-07-10,Diya Das,Bangalore,Jeans,Clothing,4,1825.16,7300.64,Cash,39,4.0
+ORD1080,2023-07-30,Meera Chatterjee,Ahmedabad,Action Figure,Toys,1,671.92,671.92,Cash,47,3.9
+ORD1717,2023-05-11,Aditya Nair,Chennai,Running Shoes,Footwear,1,1201.61,1201.61,Net Banking,26,3.5
+ORD1806,2023-02-13,Riya Mehta,Mumbai,Action Figure,Toys,1,1162.32,1162.32,Net Banking,53,4.6
+ORD1230,2023-05-19,Vihaan Gupta,Delhi,Face Cream,Beauty,2,483.03,966.06,Debit Card,35,3.3
+ORD1687,2023-08-16,Riya Mehta,Delhi,Novel,Books,1,156.08,156.08,Debit Card,44,2.6
+ORD1101,2023-07-17,Reyansh Iyer,Ahmedabad,Tea Pack,Groceries,2,386.92,773.84,UPI,33,4.4
+ORD1291,2023-09-05,Meera Rao,Jaipur,Building Blocks,Toys,2,1312.25,2624.5,Credit Card,29,1.8
+ORD1445,2023-03-20,Sneha Nair,Ahmedabad,Running Shoes,Footwear,2,2721.15,5442.3,Debit Card,34,4.9
+ORD1846,2023-07-12,Aadhya Mehta,Kolkata,Puzzle Set,Toys,1,528.89,528.89,Credit Card,35,4.9
+ORD1054,2023-08-28,Ananya Gupta,Jaipur,Sandals,Footwear,2,694.5,1389.0,UPI,18,3.6
+ORD1392,2023-05-21,Priya Das,Jaipur,Bookshelf,Furniture,2,6246.62,12493.24,Cash,35,3.5
+ORD1616,2023-04-23,Priya Sharma,Ahmedabad,Notebook Set,Books,1,250.55,250.55,Debit Card,35,2.4
+ORD1252,2023-07-07,Sai Sharma,Chennai,Face Cream,Beauty,5,498.07,2490.35,Credit Card,18,4.9
+ORD1500,2023-06-21,Priya Verma,Kolkata,Tablet,Electronics,1,22271.96,22271.96,UPI,48,2.4
+ORD1476,2023-02-08,Pooja Sharma,Mumbai,Face Cream,Beauty,2,538.51,1077.02,Cash,53,2.0
+ORD1272,2023-07-31,Aditya Gupta,Hyderabad,Perfume,Beauty,1,1110.74,1110.74,Cash,28,1.9
+ORD1045,2023-08-12,Kavya Iyer,Hyderabad,Perfume,Beauty,1,636.34,636.34,Cash,35,3.6
+ORD1114,2023-05-10,Aadhya Joshi,Chennai,Tablet,Electronics,1,27035.74,27035.74,Cash,34,1.1
+ORD1025,2023-04-14,Aarav Patel,Hyderabad,Jacket,Clothing,1,2033.52,2033.52,Net Banking,18,3.4
+ORD1212,2023-02-07,Neha Patel,Bangalore,Sugar 1kg,Groceries,4,45.12,180.48,Cash,33,2.5
+ORD1621,2023-08-18,Aadhya Gupta,Hyderabad,Tablet,Electronics,1,11220.46,11220.46,UPI,44,1.4
+ORD1170,2023-01-28,Riya Rao,Lucknow,Wheat Flour 5kg,Groceries,4,345.03,1380.12,Net Banking,37,4.3
+ORD1592,2023-07-25,Reyansh Iyer,Ahmedabad,Textbook,Books,1,620.71,620.71,Credit Card,40,2.8
+ORD1597,2023-11-23,Sai Gupta,Pune,Wheat Flour 5kg,Groceries,1,184.73,184.73,Net Banking,55,3.9
+ORD1521,2023-03-05,Amit Chatterjee,Lucknow,Building Blocks,Toys,1,1891.74,1891.74,UPI,35,3.4
+ORD1033,2023-12-02,Sanjay Verma,Delhi,Tablet,Electronics,2,26783.06,53566.12,Cash,52,2.8
+ORD1612,2023-07-05,Sai Sharma,Jaipur,Formal Shoes,Footwear,2,3407.72,6815.44,Cash,32,4.9
+ORD1110,2023-10-22,Vivaan Chatterjee,Delhi,Cooking Oil 1L,Groceries,1,203.21,203.21,Debit Card,26,3.2
+ORD1137,2023-03-04,Ishaan Sharma,Jaipur,Notebook Set,Books,2,147.79,295.58,Credit Card,38,4.0
+ORD1331,2023-12-26,Ananya Joshi,Ahmedabad,Lipstick,Beauty,1,639.74,639.74,Net Banking,30,2.4
+ORD1223,2023-06-21,Aadhya Patel,Pune,Cooking Oil 1L,Groceries,1,158.42,158.42,UPI,49,3.8
+ORD1029,2023-05-25,Pooja Bose,Bangalore,Sandals,Footwear,1,919.56,919.56,Debit Card,40,2.6
+ORD1288,2023-03-06,Riya Mehta,Jaipur,Wheat Flour 5kg,Groceries,3,281.6,844.8,Debit Card,51,1.9
+ORD1056,2023-02-15,Vivaan Sharma,Lucknow,Novel,Books,1,390.49,390.49,Net Banking,20,1.4
+ORD1785,2023-07-24,Amit Rao,Kolkata,Bed Frame,Furniture,3,6037.91,18113.73,Credit Card,30,3.6
+ORD1804,2023-04-21,Rohan Reddy,Delhi,Cooking Oil 1L,Groceries,2,148.35,296.7,Net Banking,32,4.2
+ORD1049,2023-12-17,Arjun Reddy,Bangalore,Perfume,Beauty,2,2474.56,4949.12,Net Banking,27,2.9
+ORD1807,2023-10-02,Rahul Kumar,Bangalore,Jeans,Clothing,1,2284.76,2284.76,Net Banking,43,4.8
+ORD1643,2023-03-14,Priya Gupta,Jaipur,Sugar 1kg,Groceries,1,49.45,49.45,Net Banking,21,2.1
+ORD1546,2023-01-11,Reyansh Verma,Lucknow,Sofa,Furniture,3,27053.27,81159.81,Debit Card,33,1.4
+ORD1478,2023-09-15,Sneha Bose,Delhi,Building Blocks,Toys,4,1549.79,6199.16,Cash,18,3.3
+ORD1064,2023-01-26,Riya Chatterjee,Kolkata,Novel,Books,1,473.31,473.31,Debit Card,39,2.7
+ORD1414,2023-11-19,Krishna Reddy,Ahmedabad,Tea Pack,Groceries,1,200.61,200.61,Net Banking,18,1.4
+ORD1385,2023-12-02,Vihaan Iyer,Jaipur,Sugar 1kg,Groceries,1,48.8,48.8,Credit Card,49,2.0
+ORD1792,2023-03-01,Amit Iyer,Delhi,Bookshelf,Furniture,1,6615.3,6615.3,Debit Card,36,4.4
+ORD1323,2023-09-25,Sneha Kumar,Hyderabad,Formal Shoes,Footwear,5,2215.85,11079.25,Cash,42,4.3
+ORD1452,2023-03-19,Kavya Nair,Bangalore,Puzzle Set,Toys,1,463.94,463.94,Debit Card,37,3.0
+ORD1691,2023-04-05,Diya Nair,Hyderabad,Jacket,Clothing,1,1874.66,1874.66,Net Banking,22,2.3
+ORD1235,2023-12-03,Meera Sharma,Ahmedabad,Action Figure,Toys,1,371.37,371.37,UPI,44,4.7
+ORD1657,2023-10-27,Isha Kumar,Delhi,Tablet,Electronics,1,24698.88,24698.88,Debit Card,27,4.5
+ORD1558,2023-02-13,Vihaan Das,Delhi,Dining Table,Furniture,1,7786.05,7786.05,Debit Card,38,4.3
+ORD1463,2023-05-11,Vivaan Sharma,Lucknow,Kurta,Clothing,2,1436.36,2872.72,Cash,29,2.7
+ORD1425,2023-03-11,Ishaan Rao,Pune,Tablet,Electronics,1,24445.29,24445.29,Debit Card,27,2.6
+ORD1784,2023-07-16,Neha Joshi,Lucknow,Wheat Flour 5kg,Groceries,1,309.32,309.32,UPI,33,2.1
+ORD1304,2023-01-19,Aditya Mehta,Ahmedabad,Wheat Flour 5kg,Groceries,1,274.67,274.67,Debit Card,28,3.0
+ORD1787,2023-02-25,Aadhya Patel,Lucknow,Face Cream,Beauty,1,671.12,671.12,UPI,42,3.7
+ORD1220,2023-09-23,Isha Verma,Bangalore,Running Shoes,Footwear,3,3550.45,10651.35,Cash,26,3.6
+ORD1774,2023-10-21,Riya Gupta,Bangalore,Action Figure,Toys,1,348.4,348.4,Debit Card,44,3.6
+ORD1297,2023-03-29,Vihaan Das,Delhi,Notebook Set,Books,1,222.29,222.29,Debit Card,51,4.8
+ORD1022,2023-11-13,Kavya Gupta,Ahmedabad,Smartwatch,Electronics,3,8523.7,25571.1,Net Banking,44,4.5
+ORD1421,2023-03-31,Krishna Chatterjee,Delhi,Tablet,Electronics,2,23752.16,47504.32,UPI,18,1.0
+ORD1326,2023-01-13,Priya Verma,Kolkata,Comic Book,Books,5,220.59,1102.95,Credit Card,18,4.7
+ORD1200,2023-07-08,Ishaan Kumar,Hyderabad,Jeans,Clothing,2,842.93,1685.86,UPI,63,5.0
+ORD1451,2023-12-02,Aarav Kumar,Lucknow,Wheat Flour 5kg,Groceries,1,325.17,325.17,UPI,33,2.1
+ORD1537,2023-06-18,Sneha Reddy,Mumbai,Tea Pack,Groceries,1,126.03,126.03,Cash,45,3.3
+ORD1697,2023-12-19,Priya Reddy,Delhi,Smartphone,Electronics,4,9484.61,37938.44,Credit Card,21,1.1
+ORD1647,2023-10-03,Aditya Singh,Chennai,Novel,Books,1,181.36,181.36,UPI,33,4.4
+ORD1629,2023-07-11,Amit Joshi,Ahmedabad,Remote Car,Toys,1,2389.76,2389.76,Net Banking,34,1.0
+ORD1213,2023-06-11,Sanjay Patel,Delhi,Formal Shoes,Footwear,5,4330.68,21653.4,Cash,28,1.6
+ORD1835,2023-04-23,Rahul Patel,Pune,Dining Table,Furniture,2,24081.88,48163.76,UPI,45,2.6
+ORD1823,2023-11-28,Pooja Rao,Hyderabad,Sandals,Footwear,1,1310.32,1310.32,Debit Card,45,2.9
+ORD1506,2023-07-20,Isha Iyer,Bangalore,Building Blocks,Toys,1,594.14,594.14,Net Banking,46,3.8
+ORD1722,2023-04-22,Diya Singh,Ahmedabad,Bookshelf,Furniture,1,5824.27,5824.27,Debit Card,27,5.0
+ORD1232,2023-01-05,Meera Iyer,Chennai,Building Blocks,Toys,2,479.76,959.52,Debit Card,52,1.6
+ORD1406,2023-08-24,Sai Singh,Lucknow,Textbook,Books,4,1019.35,4077.4,Credit Card,25,1.8
+ORD1569,2023-01-07,Kavya Gupta,Lucknow,Running Shoes,Footwear,1,2734.14,2734.14,Cash,21,2.1
+ORD1318,2023-06-25,Sai Patel,Ahmedabad,Action Figure,Toys,3,1056.05,3168.15,UPI,18,3.9
+ORD1184,2023-02-16,Aadhya Reddy,Pune,Smartphone,Electronics,1,31589.47,31589.47,Net Banking,44,2.4
+ORD1762,2023-02-20,Ananya Singh,Ahmedabad,Building Blocks,Toys,5,2310.43,11552.15,Credit Card,41,2.2
+ORD1760,2023-03-30,Riya Verma,Chennai,Remote Car,Toys,1,2810.57,2810.57,Cash,33,4.5
+ORD1694,2023-07-05,Diya Sharma,Bangalore,Jeans,Clothing,1,1089.03,1089.03,Credit Card,37,1.5
+ORD1610,2023-05-08,Priya Bose,Mumbai,Smartwatch,Electronics,1,1819.81,1819.81,Debit Card,32,1.8
+ORD1627,2023-01-22,Vivaan Joshi,Delhi,Notebook Set,Books,1,323.62,323.62,Cash,42,1.4
+ORD1486,2023-10-11,Pooja Gupta,Kolkata,Smartwatch,Electronics,2,5731.83,11463.66,Debit Card,25,2.9
+ORD1279,2023-09-27,Vivaan Chatterjee,Pune,Wheat Flour 5kg,Groceries,2,181.94,363.88,Cash,55,3.1
+ORD1631,2023-02-04,Anjali Nair,Ahmedabad,Face Cream,Beauty,2,723.19,1446.38,Credit Card,52,5.0
+ORD1021,2023-01-22,Isha Joshi,Hyderabad,Office Chair,Furniture,1,5426.58,5426.58,Net Banking,33,2.4
+ORD1171,2023-08-08,Meera Bose,Ahmedabad,Lipstick,Beauty,1,624.3,624.3,Credit Card,25,1.3
+ORD1402,2023-09-08,Vihaan Singh,Delhi,Tea Pack,Groceries,1,363.63,363.63,Debit Card,53,3.0
+ORD1826,2023-11-15,Krishna Gupta,Pune,Kurta,Clothing,2,519.13,1038.26,Net Banking,24,1.4
+ORD1567,2023-12-25,Pooja Chatterjee,Mumbai,Dress,Clothing,2,1546.06,3092.12,Debit Card,36,4.7
+ORD1177,2023-04-18,Aadhya Patel,Kolkata,Bookshelf,Furniture,1,2485.2,2485.2,Debit Card,41,4.5
+ORD1328,2023-03-29,Ishaan Gupta,Bangalore,Building Blocks,Toys,2,812.97,1625.94,Credit Card,41,4.9
+ORD1707,2023-01-19,Neha Kumar,Ahmedabad,Face Cream,Beauty,1,765.48,765.48,Credit Card,53,4.7
+ORD1199,2023-01-21,Priya Verma,Chennai,Face Cream,Beauty,5,463.32,2316.6,Debit Card,48,3.9
+ORD1471,2023-02-04,Sanjay Joshi,Pune,Headphones,Electronics,4,2965.17,11860.68,Cash,35,4.3
+ORD1749,2023-11-22,Ananya Das,Mumbai,Sneakers,Footwear,1,1642.24,1642.24,Credit Card,31,4.4
+ORD1695,2023-08-07,Aarav Reddy,Bangalore,Jeans,Clothing,1,835.26,835.26,Cash,36,2.7
+ORD1267,2023-04-26,Sanjay Mehta,Jaipur,T-Shirt,Clothing,4,432.01,1728.04,Credit Card,30,4.8
+ORD1733,2023-07-02,Priya Iyer,Jaipur,Bookshelf,Furniture,1,2379.07,2379.07,UPI,28,2.4
+ORD1131,2023-01-01,Anjali Reddy,Chennai,Tablet,Electronics,2,15466.57,30933.14,Net Banking,42,2.8
+ORD1339,2023-09-13,Diya Sharma,Kolkata,Novel,Books,1,503.54,503.54,Cash,27,2.9
+ORD1758,2023-07-23,Vivaan Reddy,Kolkata,Tablet,Electronics,1,9840.4,9840.4,Cash,31,1.3
+ORD1490,2023-12-18,Meera Rao,Ahmedabad,Sugar 1kg,Groceries,1,48.68,48.68,UPI,24,3.7
+ORD1573,2023-08-15,Krishna Kumar,Hyderabad,Jeans,Clothing,1,2346.45,2346.45,UPI,32,4.3
+ORD1607,2023-11-19,Sneha Singh,Bangalore,Shampoo,Beauty,2,554.78,1109.56,Debit Card,31,2.1
+ORD1194,2023-08-20,Rahul Bose,Hyderabad,Kurta,Clothing,1,1635.13,1635.13,UPI,34,3.2
+ORD1141,2023-01-12,Arjun Verma,Kolkata,Kurta,Clothing,1,538.46,538.46,Cash,42,3.9
+ORD1417,2023-09-10,Meera Singh,Lucknow,Office Chair,Furniture,2,10409.81,20819.62,UPI,49,2.6
+ORD1661,2023-08-03,Meera Iyer,Pune,Dining Table,Furniture,4,9845.87,39383.48,Cash,42,1.2
+ORD1477,2023-02-01,Rohan Mehta,Jaipur,Dining Table,Furniture,2,15098.23,30196.46,UPI,19,2.5
+ORD1715,2023-04-05,Ishaan Rao,Pune,Smartphone,Electronics,1,15024.55,15024.55,Net Banking,47,1.1
+ORD1153,2023-01-12,Meera Das,Ahmedabad,Shampoo,Beauty,1,176.07,176.07,Cash,24,4.9
+ORD1801,2023-10-09,Rahul Bose,Lucknow,Running Shoes,Footwear,1,2325.86,2325.86,Debit Card,60,1.3
+ORD1011,2023-10-11,Vivaan Mehta,Jaipur,Sneakers,Footwear,2,3015.8,6031.6,Cash,50,4.6
+ORD1270,2023-07-08,Vihaan Verma,Ahmedabad,Headphones,Electronics,2,832.69,1665.38,Cash,24,4.5
+ORD1097,2023-01-15,Pooja Sharma,Chennai,Dining Table,Furniture,1,19495.34,19495.34,Credit Card,18,4.5
+ORD1211,2023-01-08,Priya Nair,Ahmedabad,Office Chair,Furniture,5,3114.53,15572.65,Cash,35,2.4
+ORD1753,2023-07-05,Vivaan Das,Lucknow,Dress,Clothing,1,1394.9,1394.9,Net Banking,48,4.0
+ORD1570,2023-06-02,Vivaan Patel,Kolkata,Face Cream,Beauty,1,523.14,523.14,Net Banking,48,3.0
+ORD1549,2023-10-06,Reyansh Mehta,Ahmedabad,Bed Frame,Furniture,1,23573.26,23573.26,Net Banking,35,3.4
+ORD1843,2023-10-31,Sanjay Rao,Mumbai,Tea Pack,Groceries,4,397.51,1590.04,Credit Card,36,2.2
+ORD1533,2023-01-16,Meera Gupta,Hyderabad,Puzzle Set,Toys,1,731.28,731.28,Cash,34,4.6
+ORD1834,2023-03-27,Arjun Verma,Lucknow,Novel,Books,1,543.8,543.8,Cash,31,3.6
+ORD1333,2023-09-23,Krishna Joshi,Ahmedabad,Notebook Set,Books,1,146.79,146.79,UPI,25,2.8
+ORD1076,2023-04-20,Vihaan Reddy,Pune,Action Figure,Toys,5,435.89,2179.45,Credit Card,36,2.2
+ORD1713,2023-04-04,Sneha Chatterjee,Pune,Jacket,Clothing,3,3932.56,11797.68,Debit Card,27,2.1
+ORD1078,2023-05-08,Ananya Rao,Bangalore,Jeans,Clothing,4,1565.51,6262.04,Cash,18,4.7
+ORD1264,2023-12-26,Vivaan Nair,Ahmedabad,Remote Car,Toys,2,710.54,1421.08,UPI,48,2.9
+ORD1150,2023-03-11,Ishaan Nair,Chennai,Wheat Flour 5kg,Groceries,1,248.2,248.2,Cash,44,1.3
+ORD1833,2023-05-13,Priya Das,Lucknow,Building Blocks,Toys,1,958.93,958.93,Cash,22,4.0
+ORD1515,2023-08-06,Ananya Joshi,Pune,Face Cream,Beauty,1,151.56,151.56,Net Banking,38,1.2
+ORD1840,2023-03-28,Vihaan Kumar,Bangalore,Dining Table,Furniture,3,10451.15,31353.45,Credit Card,49,4.2
+ORD1470,2023-06-30,Arjun Patel,Bangalore,Building Blocks,Toys,2,2138.12,4276.24,Credit Card,27,2.9
+ORD1565,2023-11-21,Amit Patel,Lucknow,Dining Table,Furniture,1,18935.1,18935.1,Debit Card,37,1.5
+ORD1775,2023-11-07,Anjali Rao,Lucknow,Jeans,Clothing,4,2402.41,9609.64,UPI,29,3.2
+ORD1462,2023-04-17,Diya Patel,Kolkata,Jacket,Clothing,1,3582.75,3582.75,Debit Card,27,2.7
+ORD1254,2023-08-16,Aadhya Gupta,Jaipur,Wheat Flour 5kg,Groceries,1,292.71,292.71,UPI,43,3.4
+ORD1772,2023-05-19,Diya Chatterjee,Lucknow,Headphones,Electronics,1,1652.82,1652.82,Cash,34,4.9
+ORD1370,2023-08-29,Riya Verma,Bangalore,Jeans,Clothing,1,791.12,791.12,Credit Card,31,2.9
+ORD1322,2023-10-03,Kavya Gupta,Pune,Dining Table,Furniture,1,19147.94,19147.94,UPI,35,2.4
+ORD1696,2023-11-12,Aditya Sharma,Chennai,Bookshelf,Furniture,5,1185.2,5926.0,UPI,23,2.9
+ORD1152,2023-05-30,Diya Mehta,Chennai,Dining Table,Furniture,1,13927.05,13927.05,Net Banking,29,1.8
+ORD1849,2023-04-03,Diya Nair,Bangalore,Novel,Books,1,371.88,371.88,Cash,34,3.6
+ORD1303,2023-04-25,Vihaan Verma,Jaipur,Shampoo,Beauty,1,631.36,631.36,Debit Card,19,1.9
+ORD1191,2023-06-10,Sneha Singh,Chennai,Face Cream,Beauty,5,497.95,2489.75,Credit Card,46,1.5
+ORD1587,2023-08-24,Krishna Chatterjee,Bangalore,Sandals,Footwear,2,737.48,1474.96,Net Banking,25,2.2
+ORD1244,2023-11-16,Ananya Patel,Delhi,Laptop,Electronics,1,55352.92,55352.92,Debit Card,45,4.2
+ORD1794,2023-01-04,Rahul Bose,Kolkata,Jeans,Clothing,1,740.51,740.51,Net Banking,32,2.6
+ORD1088,2023-03-17,Sanjay Singh,Lucknow,T-Shirt,Clothing,1,634.99,634.99,UPI,36,2.9
+ORD1752,2023-03-07,Reyansh Sharma,Delhi,Wheat Flour 5kg,Groceries,1,339.47,339.47,Debit Card,30,3.9
+ORD1656,2023-01-09,Priya Das,Bangalore,Laptop,Electronics,1,37448.89,37448.89,Cash,43,4.8
+ORD1812,2023-02-02,Diya Chatterjee,Kolkata,Formal Shoes,Footwear,2,5467.77,10935.54,Cash,44,4.0
+ORD1779,2023-03-21,Sai Singh,Kolkata,Smartphone,Electronics,1,38069.64,38069.64,Cash,40,1.5
+ORD1419,2023-12-09,Ananya Rao,Pune,Smartphone,Electronics,1,21111.96,21111.96,Net Banking,35,2.9
+ORD1289,2023-04-08,Anjali Chatterjee,Delhi,Bed Frame,Furniture,1,10863.18,10863.18,Credit Card,43,4.0
+ORD1167,2023-04-23,Ishaan Sharma,Ahmedabad,Sugar 1kg,Groceries,2,53.78,107.56,Credit Card,38,2.0
+ORD1596,2023-03-26,Priya Bose,Kolkata,Shampoo,Beauty,1,241.42,241.42,Debit Card,48,3.4
+ORD1838,2023-09-30,Krishna Chatterjee,Chennai,Perfume,Beauty,1,2044.79,2044.79,UPI,22,3.9
+ORD1357,2023-07-10,Rohan Reddy,Lucknow,Face Cream,Beauty,1,610.48,610.48,Net Banking,29,1.2
+ORD1382,2023-12-02,Vivaan Mehta,Jaipur,Smartwatch,Electronics,1,8864.52,8864.52,Credit Card,21,1.1
+ORD1280,2023-12-02,Sai Iyer,Bangalore,Perfume,Beauty,1,1788.79,1788.79,UPI,35,4.2
+ORD1127,2023-08-16,Vivaan Bose,Mumbai,Smartwatch,Electronics,1,1808.64,1808.64,UPI,51,3.9
+ORD1708,2023-09-22,Ishaan Patel,Delhi,Rice 5kg,Groceries,1,417.94,417.94,Net Banking,41,3.9
+ORD1778,2023-03-15,Meera Das,Hyderabad,Sandals,Footwear,2,1185.2,2370.4,Credit Card,39,1.2
+ORD1023,2023-10-29,Rahul Bose,Bangalore,Rice 5kg,Groceries,1,488.27,488.27,Cash,46,2.3
+ORD1617,2023-04-04,Aditya Bose,Delhi,Notebook Set,Books,2,308.54,617.08,Net Banking,47,3.1
+ORD1666,2023-11-23,Sneha Mehta,Ahmedabad,Novel,Books,1,365.42,365.42,Debit Card,36,1.8
+ORD1283,2023-01-19,Amit Singh,Mumbai,Notebook Set,Books,1,335.13,335.13,Cash,42,1.5
+ORD1472,2023-09-14,Diya Nair,Chennai,Smartphone,Electronics,2,37299.98,74599.96,Net Banking,25,4.9
+ORD1739,2023-06-04,Rahul Bose,Ahmedabad,Remote Car,Toys,2,1353.86,2707.72,UPI,40,2.3
+ORD1368,2023-08-03,Anjali Das,Mumbai,Formal Shoes,Footwear,1,3215.27,3215.27,Credit Card,28,3.9
+ORD1026,2023-01-20,Aarav Iyer,Ahmedabad,Cooking Oil 1L,Groceries,2,120.52,241.04,Cash,29,2.8
+ORD1065,2023-03-31,Isha Reddy,Kolkata,Smartwatch,Electronics,1,4045.3,4045.3,Cash,18,2.8
+ORD1016,2023-07-20,Sai Chatterjee,Bangalore,Jacket,Clothing,2,3857.51,7715.02,UPI,28,4.2
+ORD1467,2023-03-07,Rohan Patel,Pune,Cooking Oil 1L,Groceries,1,171.1,171.1,Net Banking,36,1.6
+ORD1298,2023-10-18,Vihaan Singh,Delhi,Jacket,Clothing,2,3849.44,7698.88,Debit Card,35,2.4
+ORD1622,2023-12-26,Neha Verma,Lucknow,Jeans,Clothing,1,1277.12,1277.12,Debit Card,39,3.2
+ORD1337,2023-03-18,Anjali Das,Lucknow,Face Cream,Beauty,2,817.41,1634.82,Cash,36,2.1
+ORD1821,2023-07-27,Priya Nair,Pune,Sugar 1kg,Groceries,1,55.66,55.66,UPI,49,3.3
+ORD1027,2023-07-09,Amit Mehta,Lucknow,Puzzle Set,Toys,1,429.71,429.71,Cash,38,2.3
+ORD1589,2023-01-08,Reyansh Rao,Bangalore,Shampoo,Beauty,2,300.68,601.36,Net Banking,39,4.2
+ORD1044,2023-05-27,Neha Patel,Mumbai,Formal Shoes,Footwear,1,5611.76,5611.76,Credit Card,41,2.9
+ORD1498,2023-03-12,Rahul Das,Ahmedabad,Kurta,Clothing,3,1083.81,3251.43,Cash,45,2.1
+ORD1793,2023-10-04,Sneha Gupta,Chennai,Action Figure,Toys,1,1185.2,1185.2,Net Banking,22,2.7
+ORD1516,2023-10-24,Neha Patel,Mumbai,Bed Frame,Furniture,1,17808.04,17808.04,Credit Card,60,2.2
+ORD1750,2023-07-11,Sneha Mehta,Bangalore,Jacket,Clothing,5,4405.66,22028.3,UPI,29,3.8
+ORD1562,2023-02-17,Anjali Patel,Bangalore,Smartphone,Electronics,3,14378.3,43134.9,Debit Card,52,2.0
+ORD1455,2023-06-03,Aditya Bose,Bangalore,Bluetooth Speaker,Electronics,2,2402.79,4805.58,Credit Card,42,3.8
+ORD1388,2023-09-30,Riya Joshi,Hyderabad,Bookshelf,Furniture,2,1500.2,3000.4,Net Banking,25,3.3
+ORD1072,2023-12-19,Amit Reddy,Chennai,Textbook,Books,3,1214.95,3644.85,Cash,25,4.2
+ORD1543,2023-10-13,Ishaan Mehta,Mumbai,Sugar 1kg,Groceries,1,64.48,64.48,Cash,28,1.3
+ORD1457,2023-07-10,Aadhya Mehta,Bangalore,Notebook Set,Books,1,139.68,139.68,Credit Card,43,1.8
+ORD1634,2023-07-23,Kavya Gupta,Ahmedabad,Sugar 1kg,Groceries,2,66.1,132.2,Debit Card,39,5.0
+ORD1432,2023-03-24,Rohan Sharma,Pune,Perfume,Beauty,1,1245.62,1245.62,UPI,32,2.1
+ORD1628,2023-06-16,Ishaan Reddy,Bangalore,Bluetooth Speaker,Electronics,1,1716.75,1716.75,Net Banking,38,4.5
+ORD1654,2023-11-06,Isha Kumar,Mumbai,Formal Shoes,Footwear,2,2874.05,5748.1,Debit Card,47,3.5
+ORD1729,2023-08-19,Meera Gupta,Mumbai,Kurta,Clothing,1,1766.6,1766.6,Net Banking,51,1.3
+ORD1265,2023-08-16,Ishaan Reddy,Ahmedabad,Formal Shoes,Footwear,1,5494.29,5494.29,Debit Card,20,4.0
+ORD1210,2023-10-31,Neha Singh,Bangalore,Textbook,Books,2,1185.2,2370.4,Cash,18,1.1
+ORD1317,2023-12-23,Neha Das,Delhi,Remote Car,Toys,1,1050.53,1050.53,Credit Card,28,4.6
+ORD1514,2023-09-25,Priya Iyer,Lucknow,Sugar 1kg,Groceries,2,46.75,93.5,Credit Card,18,2.7
+ORD1314,2023-04-14,Anjali Iyer,Mumbai,Running Shoes,Footwear,1,3822.39,3822.39,Cash,37,3.2
+ORD1830,2023-09-27,Sai Mehta,Ahmedabad,Textbook,Books,1,813.75,813.75,Credit Card,35,4.3
+ORD1320,2023-10-31,Rahul Gupta,Hyderabad,Running Shoes,Footwear,3,4840.75,14522.25,Debit Card,22,2.2
+ORD1008,2023-11-24,Diya Verma,Delhi,Jeans,Clothing,3,908.56,2725.68,Net Banking,42,3.6
+ORD1394,2023-09-24,Rohan Rao,Hyderabad,Sofa,Furniture,1,23173.26,23173.26,Debit Card,48,3.8
+ORD1142,2023-12-02,Aadhya Singh,Jaipur,Bookshelf,Furniture,1,1618.51,1618.51,Cash,41,1.2
+ORD1087,2023-01-29,Priya Verma,Pune,Textbook,Books,5,1301.92,6509.6,Credit Card,49,3.0
+ORD1479,2023-01-30,Diya Singh,Lucknow,Textbook,Books,1,1598.2099999999998,1598.21,Cash,37,3.1
+ORD1504,2023-08-02,Riya Chatterjee,Chennai,Building Blocks,Toys,2,1416.76,2833.52,Credit Card,22,1.9
+ORD1754,2023-04-05,Sai Mehta,Chennai,Smartwatch,Electronics,5,8437.64,42188.2,Cash,28,4.9
+ORD1216,2023-01-17,Pooja Singh,Bangalore,Smartphone,Electronics,1,38217.24,38217.24,Net Banking,20,1.2
+ORD1581,2023-12-20,Krishna Nair,Lucknow,Wheat Flour 5kg,Groceries,1,338.38,338.38,Credit Card,22,4.2
+ORD1563,2023-03-10,Pooja Iyer,Hyderabad,Puzzle Set,Toys,5,772.48,3862.4,Credit Card,56,1.4
+ORD1399,2023-02-16,Rahul Reddy,Chennai,Face Cream,Beauty,1,461.12,461.12,Credit Card,39,1.6
+ORD1669,2023-03-14,Rahul Iyer,Hyderabad,Textbook,Books,1,1337.45,1337.45,Cash,47,2.4
+ORD1491,2023-05-12,Meera Rao,Jaipur,T-Shirt,Clothing,2,572.0,1144.0,Debit Card,38,3.0
+ORD1253,2023-08-21,Vivaan Singh,Hyderabad,Bed Frame,Furniture,1,7833.24,7833.24,Net Banking,25,3.6
+ORD1469,2023-02-20,Krishna Nair,Ahmedabad,Tea Pack,Groceries,1,344.72,344.72,UPI,32,3.7
+ORD1358,2023-03-19,Priya Reddy,Bangalore,Textbook,Books,2,1185.2,2370.4,Net Banking,39,4.0
+ORD1255,2023-04-14,Aditya Chatterjee,Jaipur,Lipstick,Beauty,1,407.09,407.09,Net Banking,53,2.9
+ORD1277,2023-05-06,Anjali Sharma,Mumbai,Office Chair,Furniture,1,3659.29,3659.29,Net Banking,42,1.6
+ORD1179,2023-03-31,Amit Das,Delhi,Running Shoes,Footwear,1,3172.33,3172.33,Credit Card,41,2.9
+ORD1282,2023-02-22,Ananya Singh,Delhi,Lipstick,Beauty,1,386.91,386.91,Net Banking,36,2.6
+ORD1391,2023-01-08,Kavya Gupta,Delhi,Smartphone,Electronics,3,26094.32,78282.96,UPI,18,4.2
+ORD1509,2023-04-29,Vivaan Reddy,Mumbai,Novel,Books,2,472.19,944.38,Debit Card,52,4.3
+ORD1584,2023-04-18,Anjali Gupta,Pune,Face Cream,Beauty,2,748.07,1496.14,Debit Card,43,2.6
+ORD1130,2023-01-10,Aditya Reddy,Lucknow,Lipstick,Beauty,1,1169.82,1169.82,Net Banking,47,4.3
+ORD1145,2023-02-16,Priya Nair,Hyderabad,Novel,Books,1,318.08,318.08,Net Banking,27,3.4
+ORD1848,2023-04-09,Reyansh Mehta,Pune,Cooking Oil 1L,Groceries,2,177.64,355.28,Debit Card,32,4.2
+ORD1646,2023-01-03,Aditya Das,Hyderabad,Formal Shoes,Footwear,2,5322.44,10644.88,Credit Card,50,2.5
+ORD1716,2023-11-29,Priya Chatterjee,Ahmedabad,Sandals,Footwear,1,1302.94,1302.94,Cash,21,4.0
+ORD1768,2023-03-27,Sneha Gupta,Delhi,Formal Shoes,Footwear,1,5564.32,5564.32,Debit Card,31,2.3
+ORD1073,2023-05-10,Riya Gupta,Chennai,Running Shoes,Footwear,2,1839.93,3679.86,Net Banking,33,1.9
+ORD1236,2023-11-16,Rahul Das,Mumbai,Comic Book,Books,1,271.85,271.85,UPI,43,4.8
+ORD1038,2023-04-09,Diya Patel,Chennai,Dining Table,Furniture,1,17636.74,17636.74,Cash,35,4.1
